@@ -1,0 +1,108 @@
+{
+  "h1": "Attic Cleaning in San Leandro, CA",
+  "description": "Attic cleaning in San Leandro, CA: debris, dust and droppings removed and the space sanitized before new insulation. Get a free inspection and estimate.",
+  "intro": "We clean and sanitize attics across the East Bay: debris, dust and rodent droppings vacuumed out, the deck and framing treated, and the space left dry and ready for new insulation. Free inspection, fixed written estimate.",
+  "hero_image": "attic-cleaning-hero",
+  "hero_alt": "Clean sanitized attic deck in an East Bay home",
+  "sections": [
+    {
+      "h2": "What hides in an old attic",
+      "paragraphs": [
+        "Dust from past remodels, construction debris and droppings from rodents settle into attic insulation and on the deck. None of it belongs under new insulation.",
+        "The inspection documents what is up there with photos, so the cleaning scope is based on what we actually saw, not a square-foot formula."
+      ],
+      "bullets": [
+        "Dust and construction debris",
+        "Rodent droppings and nesting material",
+        "Old or damaged insulation",
+        "Mold and moisture residue"
+      ]
+    },
+    {
+      "h2": "What an attic cleaning covers",
+      "paragraphs": [
+        "Cleaning means vacuuming out the old material and debris, removing droppings, and sanitizing the deck and framing so the attic is a clean surface for whatever comes next."
+      ],
+      "bullets": [
+        "Vacuum removal of debris and damaged insulation",
+        "Dropping and nesting material removal",
+        "Sanitizing treatment on the deck and framing",
+        "Waste bagged and disposed of properly"
+      ]
+    },
+    {
+      "h2": "Cleaning before new insulation",
+      "paragraphs": [
+        "New insulation over droppings, dust or mold locks the problem into the attic. We clean first, then insulate, so the material goes down on a dry, sanitized surface.",
+        "If the cleaning reveals moisture or rodent activity, we flag it before any insulation is scheduled, so the root cause gets fixed instead of covered."
+      ]
+    },
+    {
+      "h2": "When droppings mean rodents",
+      "paragraphs": [
+        "Droppings are evidence of a rodent problem, not just a mess. Before we reinsulate, entry points get sealed so the attic stays clean after we leave.",
+        "We do not lay traps or bait. We seal the building so rodents cannot get back in, then clean what they left behind."
+      ]
+    },
+    {
+      "h2": "After the attic is clean",
+      "paragraphs": [
+        "A cleaned attic smells neutral, holds insulation properly, and is safer to work in for every trade that follows: electricians, plumbers and HVAC crews.",
+        "We leave the space ready for new insulation, with photos so you can see the difference."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We document what is in the attic with photos and give you a fixed written estimate for the cleaning scope.",
+      "image": "attic-cleaning-step-1",
+      "image_alt": "Inspecting attic debris before cleaning"
+    },
+    {
+      "name": "Removal",
+      "text": "Debris, droppings and damaged material are vacuumed out and bagged for disposal.",
+      "image": "attic-cleaning-step-2",
+      "image_alt": "Vacuuming debris out of an attic"
+    },
+    {
+      "name": "Sanitize",
+      "text": "The deck and framing are treated and the space is left dry and clean.",
+      "image": "attic-cleaning-step-3",
+      "image_alt": "Sanitizing an attic deck"
+    },
+    {
+      "name": "Ready",
+      "text": "We confirm the attic is ready for insulation or storage and hand you the photos.",
+      "image": "attic-cleaning-step-4",
+      "image_alt": "Finished clean attic ready for insulation"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why clean the attic before insulating?",
+      "a": "Because new insulation over dust, droppings or mold locks those problems in. A clean, dry surface is what lets insulation do its job for the long term."
+    },
+    {
+      "q": "Do you remove rodent droppings?",
+      "a": "Yes. Droppings and nesting material are vacuumed out as part of the cleaning, and we flag the entry points that let the rodents in so they can be sealed."
+    },
+    {
+      "q": "How long does an attic cleaning take?",
+      "a": "Most attics clean up in a day. Heavy debris or large droppings contamination can extend the job, and the estimate states the schedule."
+    },
+    {
+      "q": "Will the smell go away?",
+      "a": "Once the source material is removed and the space is sanitized, the smell fades, usually within days. If it lingers, we re-check for moisture or missed debris."
+    },
+    {
+      "q": "Can you clean and insulate in the same visit?",
+      "a": "Often yes. We clean first, verify the deck is dry, and then new insulation goes in. Both scopes are quoted together as one fixed estimate."
+    },
+    {
+      "q": "Is the waste disposed of properly?",
+      "a": "Yes. Contaminated material is bagged and taken for proper disposal, and it is included in the fixed estimate."
+    }
+  ],
+  "related": ["attic-insulation", "attic-insulation-replacement", "insulation-removal"]
+}

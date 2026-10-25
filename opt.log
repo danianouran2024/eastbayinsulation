@@ -1,0 +1,27 @@
+ok   air-sealing-hero: 960w 67 KB (budget 110) q72 of 1448x1086
+ok   attic-cleaning-hero: 960w 52 KB (budget 110) q72 of 1448x1086
+ok   attic-insulation-hero: 960w 85 KB (budget 110) q72 of 1448x1086
+ok   attic-insulation-removal-hero: 960w 68 KB (budget 110) q72 of 1448x1086
+ok   attic-insulation-replacement-hero: 960w 75 KB (budget 110) q72 of 1448x1086
+ok   blown-in-insulation-hero: 960w 86 KB (budget 110) q72 of 1448x1086
+ok   cellulose-insulation-hero: 960w 105 KB (budget 110) q44 of 1448x1086
+ok   closed-cell-spray-foam-hero: 960w 90 KB (budget 110) q72 of 1448x1086
+ok   crawl-space-encapsulation-hero: 960w 39 KB (budget 110) q72 of 1448x1086
+ok   crawl-space-insulation-hero: 960w 48 KB (budget 110) q72 of 1448x1086
+ok   duct-replacement-hero: 960w 98 KB (budget 110) q72 of 1448x1086
+ok   fiberglass-insulation-hero: 960w 53 KB (budget 110) q72 of 1448x1086
+ok   garage-insulation-hero: 960w 64 KB (budget 110) q72 of 1448x1086
+ok   home-band: 960w 57 KB (budget 110) q72 of 1916x821
+ok   home-hero: 960w 106 KB (budget 110) q68 of 1448x1086
+ok   insulation-removal-hero: 960w 94 KB (budget 110) q72 of 1448x1086
+ok   insulation-replacement-hero: 960w 61 KB (budget 110) q72 of 1448x1086
+ok   mineral-wool-insulation-hero: 960w 103 KB (budget 110) q72 of 1448x1086
+ok   radiant-barrier-insulation-hero: 960w 108 KB (budget 110) q48 of 1448x1086
+ok   rodent-exclusion-hero: 960w 105 KB (budget 110) q56 of 1448x1086
+FAIL rodent-proofing-hero: 960w 121 KB (budget 110) q40 of 1448x1086
+ok   soundproofing-insulation-hero: 960w 78 KB (budget 110) q72 of 1448x1086
+ok   spray-foam-insulation-hero: 960w 68 KB (budget 110) q72 of 1448x1086
+ok   vapor-barrier-installation-hero: 960w 34 KB (budget 110) q72 of 1448x1086
+ok   wall-insulation-hero: 960w 105 KB (budget 110) q52 of 1448x1086
+25 image(s) optimized -> site\public\img\images.json
+1 over budget: rodent-proofing-hero

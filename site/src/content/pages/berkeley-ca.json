@@ -1,0 +1,40 @@
+{
+  "h1": "Insulation Contractor in Berkeley, CA",
+  "description": "Insulation contractor in Berkeley, CA serving Craftsman homes in the flats and hills, 15 miles north of our San Leandro base. Request a free inspection.",
+  "intro": "East Bay Insulation serves Berkeley from our San Leandro base, about 15 miles north. The Craftsman homes in the flats and up in the hills make up the core of our Berkeley work, and we plan each one around how it was built.",
+  "sections": [
+    {
+      "h2": "Craftsman homes, flats and hills",
+      "paragraphs": [
+        "Berkeley's Craftsman homes are solid but rarely well sealed, with attics and walls built long before modern insulation standards. Homes in the hills sit on steep lots with cooler air, while the flats stay closer to the bay's damp.",
+        "We inspect the attic, the walls and any crawl space before quoting, so the plan fits the house instead of a product catalog."
+      ],
+      "bullets": []
+    },
+    {
+      "h2": "What Berkeley homes most often need",
+      "paragraphs": [],
+      "bullets": [
+        "Attic insulation and air sealing in Craftsman homes",
+        "Crawl space insulation and vapor barriers",
+        "Blown-in insulation for finished walls",
+        "Insulation removal and replacement",
+        "Soundproofing between units and floors"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How quickly can you get to Berkeley?",
+      "a": "Berkeley is about 15 miles north of our San Leandro base, and most inspections are scheduled within the same week."
+    },
+    {
+      "q": "Do you serve the Berkeley hills?",
+      "a": "Yes. We work in the flats and the hills, and steep lots are part of the plan from the first visit."
+    },
+    {
+      "q": "What should I expect at the inspection?",
+      "a": "We walk the attic, walls and crawl space, explain what is there, and follow up with a written estimate before any work starts."
+    }
+  ]
+}

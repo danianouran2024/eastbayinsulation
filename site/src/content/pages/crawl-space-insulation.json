@@ -1,0 +1,107 @@
+{
+  "h1": "Crawl Space Insulation in San Leandro, CA",
+  "description": "Crawl space insulation in San Leandro, CA for floors, walls and rim joists, planned together with the vapor barrier. Free inspection.",
+  "intro": "We insulate crawl space floors, walls and rim joists, and we plan the vapor barrier at the same time so the two work as one system instead of fighting each other. Free inspection with a moisture reading, fixed written estimate.",
+  "hero_image": "crawl-space-insulation-hero",
+  "hero_alt": "Insulated crawl space floor joists above a fresh vapor barrier",
+  "sections": [
+    {
+      "h2": "What crawl space insulation covers",
+      "paragraphs": [
+        "Crawl space insulation is three jobs: the floor above the crawl space, the foundation walls, and the rim joist band where the house meets the foundation. Each one stops a different route for cold, damp air."
+      ],
+      "bullets": [
+        "Floor joist bays insulated from below",
+        "Foundation walls insulated where the space is closed off",
+        "Rim joists sealed and insulated",
+        "Vapor barrier planned in the same visit",
+        "Moisture readings before and after"
+      ]
+    },
+    {
+      "h2": "Materials for a damp space",
+      "paragraphs": [
+        "A crawl space is the wettest part of the house, so material choice matters more here than anywhere else. Fiberglass batts work when the space is dry and the barrier is in place; closed-cell foam handles moisture better on rim joists and foundation walls.",
+        "We pick the material zone by zone: batts for the floor joists where they stay dry, foam for the rim band where cold, damp air pushes in from outside."
+      ],
+      "bullets": [
+        "Fiberglass batts in dry floor bays",
+        "Closed-cell foam on rim joists and masonry",
+        "No material installed against wet surfaces"
+      ]
+    },
+    {
+      "h2": "Insulation and the vapor barrier, together",
+      "paragraphs": [
+        "The marine layer keeps crawl space air humid for much of the year, and the soil under the house releases moisture constantly. Insulation alone cannot fix that; it just gets damp and loses its R-value.",
+        "The right order is barrier first, insulation second. The barrier stops ground moisture, and the insulation holds the floor temperature steady without soaking up water."
+      ]
+    },
+    {
+      "h2": "What shapes the cost",
+      "paragraphs": [
+        "The square footage of the floor, the headroom in the space, and what is under there now all move the number. A tall, dry, open crawl space is a fast job; a tight one with debris or standing water takes more time, and the estimate reflects the space we actually measured."
+      ]
+    },
+    {
+      "h2": "Install and follow-up",
+      "paragraphs": [
+        "Crews work from below with lights and knee protection, and most crawl spaces finish in one to two days. We check the fit at every bay and take moisture readings before we close up.",
+        "At the follow-up visit we re-check the readings and the install, because a crawl space shows whether the system is working within a few weeks."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We measure the space, read the moisture levels, and check the rim joists, vents and any insulation that is already there.",
+      "image": "crawl-space-insulation-step-1",
+      "image_alt": "Inspecting a crawl space floor with a moisture meter"
+    },
+    {
+      "name": "Prep",
+      "text": "Wet or damaged material comes out, the surfaces dry, and the vapor barrier goes down where the plan calls for it.",
+      "image": "crawl-space-insulation-step-2",
+      "image_alt": "Laying a vapor barrier in a crawl space"
+    },
+    {
+      "name": "Install",
+      "text": "Batts go into the floor bays and foam seals the rim joist band, cut and fitted bay by bay.",
+      "image": "crawl-space-insulation-step-3",
+      "image_alt": "Fitting insulation batts between floor joists"
+    },
+    {
+      "name": "Verify",
+      "text": "We re-check moisture and fit at the follow-up visit and confirm the floor above is holding its temperature.",
+      "image": "crawl-space-insulation-step-4",
+      "image_alt": "Checking a finished crawl space insulation job"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does crawl space insulation cost?",
+      "a": "It follows the size of the floor, the headroom and the condition of the space. The free inspection gives you one fixed written number for the crawl space you actually have."
+    },
+    {
+      "q": "Which insulation works best in a crawl space?",
+      "a": "It depends on the zone. Fiberglass batts do well in dry floor bays; closed-cell foam is the better pick for rim joists and foundation walls where moisture is constant."
+    },
+    {
+      "q": "Do I need a vapor barrier too?",
+      "a": "In the East Bay, almost always. The barrier stops ground moisture from soaking the insulation, and the two are planned together so you do not pay to redo one of them later."
+    },
+    {
+      "q": "Will insulating the crawl space warm my floors?",
+      "a": "Yes, usually within days. Cold floors come from the cold air under them, and stopping that transfer is exactly what floor joist insulation does."
+    },
+    {
+      "q": "How long does the work take?",
+      "a": "Most crawl spaces finish in one to two days. Tight or cluttered spaces run longer, and the estimate says so up front."
+    },
+    {
+      "q": "What if the old insulation is damp or falling down?",
+      "a": "It comes out and the space dries before anything new goes in. Insulating over wet material would trap the moisture and waste the new insulation."
+    }
+  ],
+  "related": ["crawl-space-encapsulation", "vapor-barrier-installation", "closed-cell-spray-foam"]
+}

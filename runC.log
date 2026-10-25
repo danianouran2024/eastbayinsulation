@@ -1,0 +1,16 @@
+4 image(s) queued | model=gpt-image-2-text-to-image | 1K | 4:3 | concurrency=2
+ERR attic-cleaning-hero: fetch failed [cause: UND_ERR_CONNECT_TIMEOUT]
+ERR attic-insulation-replacement-hero: fetch failed
+ok  fiberglass-insulation-hero  2440163B 1448x1086  task=b9648c36be26c80803e999117a0518a6
+ok  soundproofing-insulation-hero  2785214B 1448x1086  task=489adc902dc5ba12d4dd7a2a1fdccb68
+done 2 / failed 2
+[
+  {
+    "name": "attic-cleaning-hero",
+    "error": "fetch failed [cause: UND_ERR_CONNECT_TIMEOUT]"
+  },
+  {
+    "name": "attic-insulation-replacement-hero",
+    "error": "fetch failed"
+  }
+]

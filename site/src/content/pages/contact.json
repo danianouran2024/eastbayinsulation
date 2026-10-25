@@ -1,0 +1,30 @@
+{
+  "h1": "Contact East Bay Insulation",
+  "description": "Request a free insulation inspection and written estimate. We call back within one business day to schedule a visit to your East Bay home.",
+  "intro": "The fastest way to reach us is the estimate form. Tell us about your house and what you are noticing, and we call back within one business day to schedule the free inspection.",
+  "sections": [
+    {
+      "h2": "How estimates work",
+      "paragraphs": [
+        "Fill out the form with your name, phone number and a short note about the job. We call back within one business day, then schedule a time to inspect the house."
+      ],
+      "bullets": [
+        "Free inspection at your home",
+        "Written estimate with a fixed price",
+        "We call back within one business day",
+        "No obligation to book"
+      ]
+    },
+    {
+      "h2": "Service area",
+      "paragraphs": [
+        "We are based in San Leandro and serve East Bay homeowners within about 30 miles, including Oakland, Hayward, Castro Valley, Alameda, Berkeley, Fremont, San Lorenzo and Walnut Creek. If you are on the edge of that radius, send the form anyway and we will confirm whether we can help."
+      ],
+      "bullets": []
+    }
+  ],
+  "email": "robinmill994@gmail.com",
+  "phone": null,
+  "address": "San Leandro, CA (service area ~30 mi)",
+  "hours": null
+}

@@ -1,0 +1,106 @@
+{
+  "h1": "Vapor Barrier Installation in San Leandro, CA",
+  "description": "Vapor barrier installation in San Leandro, CA: crawl space ground covers that stop soil moisture from rising. Get a free inspection and estimate.",
+  "intro": "Crawl space vapor barrier installation for East Bay homes: sealed ground covers that stop soil moisture before it reaches the joists, the insulation and the air inside your house. Free inspection with a moisture reading.",
+  "hero_image": "vapor-barrier-installation-hero",
+  "hero_alt": "Sealed vapor barrier in an East Bay crawl space",
+  "sections": [
+    {
+      "h2": "Why ground moisture gets inside",
+      "paragraphs": [
+        "The soil under a crawl space releases moisture year round, and it rises into the floor framing above. In the East Bay, the marine layer keeps the air humid enough that the moisture has nowhere to dry.",
+        "A vapor barrier stops that transfer at the source, before it reaches the joists, the insulation and the air inside the house."
+      ]
+    },
+    {
+      "h2": "Barrier types and where each belongs",
+      "paragraphs": [
+        "We install the barrier weight the space actually calls for, from standard 6-mil up to reinforced liners for high-traffic crawl spaces, and we seal every seam and pier instead of just draping plastic."
+      ],
+      "bullets": [
+        "6-mil for basic ground coverage",
+        "Reinforced liners where the space sees traffic",
+        "Seams overlapped and sealed",
+        "Barrier run up walls and around piers"
+      ]
+    },
+    {
+      "h2": "A barrier on its own vs full encapsulation",
+      "paragraphs": [
+        "A ground barrier slows soil evaporation and is the right first step for many homes. Full encapsulation adds sealed vents and rim joist work and turns the crawl space into a closed system.",
+        "We quote the barrier as its own job and lay out what encapsulation would add, so you can choose the scope that fits your house and budget."
+      ]
+    },
+    {
+      "h2": "What we check before laying plastic",
+      "paragraphs": [
+        "We read the moisture levels, look for standing water or drainage issues, and check the piers and framing before any plastic goes down. A barrier over pooled water or broken drains would trap the problem instead of solving it."
+      ],
+      "bullets": [
+        "Moisture readings on the soil and framing",
+        "Drainage and standing water check",
+        "Pier and footing condition noted before install"
+      ]
+    },
+    {
+      "h2": "Keeping the barrier intact",
+      "paragraphs": [
+        "We seal the barrier up the foundation walls, around piers and at the access door, so it stays in place when work happens under the house later.",
+        "If you add floor insulation or encapsulation later, the barrier stays: both build on top of it rather than replacing it."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We read moisture levels, check drainage and piers, and quote the barrier scope for your crawl space.",
+      "image": "vapor-barrier-installation-step-1",
+      "image_alt": "Reading crawl space moisture with a meter"
+    },
+    {
+      "name": "Prep",
+      "text": "Debris is cleared and the ground leveled so the barrier can be laid tight and flat.",
+      "image": "vapor-barrier-installation-step-2",
+      "image_alt": "Prepping a crawl space floor for a barrier"
+    },
+    {
+      "name": "Install",
+      "text": "The barrier is rolled out, overlapped at seams, and sealed up walls and around piers.",
+      "image": "vapor-barrier-installation-step-3",
+      "image_alt": "Sealing a vapor barrier up a foundation wall"
+    },
+    {
+      "name": "Verify",
+      "text": "We re-check the coverage, confirm the seals, and record the post-install moisture reading.",
+      "image": "vapor-barrier-installation-step-4",
+      "image_alt": "Checking a finished vapor barrier installation"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does a vapor barrier do?",
+      "a": "It stops moisture rising from the soil into the floor framing above, which protects joists, keeps insulation dry and cuts the damp that feeds musty smells."
+    },
+    {
+      "q": "How thick should the barrier be?",
+      "a": "It depends on the space. Standard 6-mil works for basic coverage; reinforced liner is better where the crawl space gets traffic. We install the weight the space calls for."
+    },
+    {
+      "q": "Is a vapor barrier the same as encapsulation?",
+      "a": "No. A barrier stops ground evaporation. Encapsulation goes further and seals the vents and rim joists so the whole space is closed off. We quote both scopes separately."
+    },
+    {
+      "q": "How long does installation take?",
+      "a": "Most crawl spaces are done in a day. Tight spaces with debris or leveling work run longer, and the estimate states the schedule."
+    },
+    {
+      "q": "Can you insulate the floor at the same time?",
+      "a": "Yes. The barrier goes down first, then floor insulation over it. Doing both in one visit is usually the most efficient path."
+    },
+    {
+      "q": "Will the barrier trap water underneath?",
+      "a": "Only if water is already pooling, which is why we check drainage before installing. If standing water shows up, we flag it and fix the drainage first."
+    }
+  ],
+  "related": ["crawl-space-encapsulation", "crawl-space-insulation"]
+}

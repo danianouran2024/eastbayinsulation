@@ -1,0 +1,746 @@
+{
+  "site_url": "http://localhost:4321",
+  "noindex": true,
+  "business": {
+    "name": "East Bay Insulation",
+    "phone": "",
+    "email": "robinmill994@gmail.com",
+    "hours": "",
+    "home_city": "San Leandro",
+    "country": "United States",
+    "location_code": "2840",
+    "primary_cta": "form",
+    "domain": "eastbayinsulation.com",
+    "demo": false,
+    "sensitive": false,
+    "founded": "",
+    "turnstile_site_key": "",
+    "trust_points": [],
+    "gbp_url": "",
+    "socials": [],
+    "address": "San Leandro, CA (service area ~30 mi)"
+  },
+  "testimonials": [],
+  "pages": [
+    {
+      "url": "/",
+      "slug": "home",
+      "type": "home",
+      "page_name": "Home",
+      "title": "Insulation Contractor San Leandro, CA | East Bay Insulation",
+      "keyword": "insulation contractor san leandro",
+      "parent": "",
+      "intent": "transactional",
+      "file": "index.html"
+    },
+    {
+      "url": "/services/",
+      "slug": "services",
+      "type": "hub",
+      "page_name": "Services",
+      "title": "Insulation Services San Leandro, CA | East Bay Insulation",
+      "keyword": "",
+      "parent": "/",
+      "intent": "",
+      "file": "services/index.html"
+    },
+    {
+      "url": "/areas-served/",
+      "slug": "areas-served",
+      "type": "hub",
+      "page_name": "Areas We Serve",
+      "title": "Areas We Serve | East Bay Insulation",
+      "keyword": "",
+      "parent": "/",
+      "intent": "",
+      "file": "areas-served/index.html"
+    },
+    {
+      "url": "/blog/",
+      "slug": "blog",
+      "type": "hub",
+      "page_name": "Blog",
+      "title": "Insulation Guides | East Bay Insulation",
+      "keyword": "",
+      "parent": "/",
+      "intent": "",
+      "file": "blog/index.html"
+    },
+    {
+      "url": "/services/attic-insulation/",
+      "slug": "attic-insulation",
+      "type": "service",
+      "page_name": "Attic Insulation",
+      "title": "Attic Insulation San Leandro, CA | East Bay Insulation",
+      "keyword": "attic insulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/attic-insulation/index.html"
+    },
+    {
+      "url": "/services/spray-foam-insulation/",
+      "slug": "spray-foam-insulation",
+      "type": "service",
+      "page_name": "Spray Foam Insulation",
+      "title": "Spray Foam Insulation San Leandro, CA | East Bay Insulation",
+      "keyword": "spray foam insulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/spray-foam-insulation/index.html"
+    },
+    {
+      "url": "/services/crawl-space-encapsulation/",
+      "slug": "crawl-space-encapsulation",
+      "type": "service",
+      "page_name": "Crawl Space Encapsulation",
+      "title": "Crawl Space Encapsulation San Leandro | East Bay Insulation",
+      "keyword": "crawl space encapsulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/crawl-space-encapsulation/index.html"
+    },
+    {
+      "url": "/services/blown-in-insulation/",
+      "slug": "blown-in-insulation",
+      "type": "service",
+      "page_name": "Blown-In Insulation",
+      "title": "Blown-In Insulation San Leandro, CA | East Bay Insulation",
+      "keyword": "blown in insulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/blown-in-insulation/index.html"
+    },
+    {
+      "url": "/services/crawl-space-insulation/",
+      "slug": "crawl-space-insulation",
+      "type": "service",
+      "page_name": "Crawl Space Insulation",
+      "title": "Crawl Space Insulation San Leandro, CA | East Bay Insulation",
+      "keyword": "crawl space insulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/crawl-space-insulation/index.html"
+    },
+    {
+      "url": "/services/closed-cell-spray-foam/",
+      "slug": "closed-cell-spray-foam",
+      "type": "service",
+      "page_name": "Closed-Cell Spray Foam",
+      "title": "Closed-Cell Spray Foam San Leandro, CA | East Bay Insulation",
+      "keyword": "closed cell spray foam insulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/closed-cell-spray-foam/index.html"
+    },
+    {
+      "url": "/services/cellulose-insulation/",
+      "slug": "cellulose-insulation",
+      "type": "service",
+      "page_name": "Cellulose Insulation",
+      "title": "Cellulose Insulation San Leandro, CA | East Bay Insulation",
+      "keyword": "cellulose insulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/cellulose-insulation/index.html"
+    },
+    {
+      "url": "/services/mineral-wool-insulation/",
+      "slug": "mineral-wool-insulation",
+      "type": "service",
+      "page_name": "Mineral Wool Insulation",
+      "title": "Mineral Wool Insulation San Leandro | East Bay Insulation",
+      "keyword": "mineral wool insulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/mineral-wool-insulation/index.html"
+    },
+    {
+      "url": "/services/garage-insulation/",
+      "slug": "garage-insulation",
+      "type": "service",
+      "page_name": "Garage Insulation",
+      "title": "Garage Insulation San Leandro, CA | East Bay Insulation",
+      "keyword": "garage insulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/garage-insulation/index.html"
+    },
+    {
+      "url": "/services/wall-insulation/",
+      "slug": "wall-insulation",
+      "type": "service",
+      "page_name": "Wall Insulation",
+      "title": "Wall Insulation San Leandro, CA | East Bay Insulation",
+      "keyword": "wall insulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/wall-insulation/index.html"
+    },
+    {
+      "url": "/services/insulation-removal/",
+      "slug": "insulation-removal",
+      "type": "service",
+      "page_name": "Insulation Removal",
+      "title": "Insulation Removal San Leandro, CA | East Bay Insulation",
+      "keyword": "insulation removal",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/insulation-removal/index.html"
+    },
+    {
+      "url": "/services/radiant-barrier-insulation/",
+      "slug": "radiant-barrier-insulation",
+      "type": "service",
+      "page_name": "Radiant Barrier Insulation",
+      "title": "Radiant Barrier San Leandro, CA | East Bay Insulation",
+      "keyword": "radiant barrier insulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/radiant-barrier-insulation/index.html"
+    },
+    {
+      "url": "/services/duct-replacement/",
+      "slug": "duct-replacement",
+      "type": "service",
+      "page_name": "Duct Replacement",
+      "title": "Duct Replacement San Leandro, CA | East Bay Insulation",
+      "keyword": "duct replacement",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/duct-replacement/index.html"
+    },
+    {
+      "url": "/services/soundproofing-insulation/",
+      "slug": "soundproofing-insulation",
+      "type": "service",
+      "page_name": "Soundproofing Insulation",
+      "title": "Soundproofing Insulation San Leandro | East Bay Insulation",
+      "keyword": "soundproofing insulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/soundproofing-insulation/index.html"
+    },
+    {
+      "url": "/services/attic-insulation-removal/",
+      "slug": "attic-insulation-removal",
+      "type": "service",
+      "page_name": "Attic Insulation Removal",
+      "title": "Attic Insulation Removal San Leandro | East Bay Insulation",
+      "keyword": "attic insulation removal",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/attic-insulation-removal/index.html"
+    },
+    {
+      "url": "/services/air-sealing/",
+      "slug": "air-sealing",
+      "type": "service",
+      "page_name": "Air Sealing",
+      "title": "Air Sealing San Leandro, CA | East Bay Insulation",
+      "keyword": "air sealing",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/air-sealing/index.html"
+    },
+    {
+      "url": "/services/attic-insulation-replacement/",
+      "slug": "attic-insulation-replacement",
+      "type": "service",
+      "page_name": "Attic Insulation Replacement",
+      "title": "Attic Insulation Replacement San Leandro, CA",
+      "keyword": "attic insulation replacement",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/attic-insulation-replacement/index.html"
+    },
+    {
+      "url": "/services/attic-cleaning/",
+      "slug": "attic-cleaning",
+      "type": "service",
+      "page_name": "Attic Cleaning",
+      "title": "Attic Cleaning San Leandro, CA | East Bay Insulation",
+      "keyword": "attic cleaning",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/attic-cleaning/index.html"
+    },
+    {
+      "url": "/services/vapor-barrier-installation/",
+      "slug": "vapor-barrier-installation",
+      "type": "service",
+      "page_name": "Vapor Barrier Installation",
+      "title": "Vapor Barrier Installation San Leandro, CA",
+      "keyword": "vapor barrier installation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/vapor-barrier-installation/index.html"
+    },
+    {
+      "url": "/services/rodent-proofing/",
+      "slug": "rodent-proofing",
+      "type": "service",
+      "page_name": "Rodent Proofing",
+      "title": "Rodent Proofing San Leandro, CA | East Bay Insulation",
+      "keyword": "rodent proofing",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/rodent-proofing/index.html"
+    },
+    {
+      "url": "/services/rodent-exclusion/",
+      "slug": "rodent-exclusion",
+      "type": "service",
+      "page_name": "Rodent Exclusion",
+      "title": "Rodent Exclusion San Leandro, CA | East Bay Insulation",
+      "keyword": "rodent exclusion",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/rodent-exclusion/index.html"
+    },
+    {
+      "url": "/services/insulation-replacement/",
+      "slug": "insulation-replacement",
+      "type": "service",
+      "page_name": "Insulation Replacement",
+      "title": "Insulation Replacement San Leandro | East Bay Insulation",
+      "keyword": "insulation replacement",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/insulation-replacement/index.html"
+    },
+    {
+      "url": "/services/fiberglass-insulation/",
+      "slug": "fiberglass-insulation",
+      "type": "service",
+      "page_name": "Fiberglass Insulation",
+      "title": "Fiberglass Insulation San Leandro | East Bay Insulation",
+      "keyword": "fiberglass insulation",
+      "parent": "/services/",
+      "intent": "transactional",
+      "file": "services/fiberglass-insulation/index.html"
+    },
+    {
+      "url": "/areas-served/oakland-ca/",
+      "slug": "oakland-ca",
+      "type": "area",
+      "page_name": "Oakland, CA",
+      "title": "Insulation Contractor Oakland, CA | East Bay Insulation",
+      "keyword": "insulation contractor oakland",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/oakland-ca/index.html"
+    },
+    {
+      "url": "/areas-served/hayward-ca/",
+      "slug": "hayward-ca",
+      "type": "area",
+      "page_name": "Hayward, CA",
+      "title": "Insulation Contractor Hayward, CA | East Bay Insulation",
+      "keyword": "insulation contractor hayward",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/hayward-ca/index.html"
+    },
+    {
+      "url": "/areas-served/castro-valley-ca/",
+      "slug": "castro-valley-ca",
+      "type": "area",
+      "page_name": "Castro Valley, CA",
+      "title": "Insulation Contractor Castro Valley, CA",
+      "keyword": "insulation contractor castro valley",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/castro-valley-ca/index.html"
+    },
+    {
+      "url": "/areas-served/alameda-ca/",
+      "slug": "alameda-ca",
+      "type": "area",
+      "page_name": "Alameda, CA",
+      "title": "Insulation Contractor Alameda, CA | East Bay Insulation",
+      "keyword": "insulation contractor alameda",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/alameda-ca/index.html"
+    },
+    {
+      "url": "/areas-served/berkeley-ca/",
+      "slug": "berkeley-ca",
+      "type": "area",
+      "page_name": "Berkeley, CA",
+      "title": "Insulation Contractor Berkeley, CA | East Bay Insulation",
+      "keyword": "insulation contractor berkeley",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/berkeley-ca/index.html"
+    },
+    {
+      "url": "/areas-served/fremont-ca/",
+      "slug": "fremont-ca",
+      "type": "area",
+      "page_name": "Fremont, CA",
+      "title": "Insulation Contractor Fremont, CA | East Bay Insulation",
+      "keyword": "insulation contractor fremont",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/fremont-ca/index.html"
+    },
+    {
+      "url": "/areas-served/union-city-ca/",
+      "slug": "union-city-ca",
+      "type": "area",
+      "page_name": "Union City, CA",
+      "title": "Insulation Contractor Union City, CA | East Bay Insulation",
+      "keyword": "insulation contractor union city",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/union-city-ca/index.html"
+    },
+    {
+      "url": "/areas-served/newark-ca/",
+      "slug": "newark-ca",
+      "type": "area",
+      "page_name": "Newark, CA",
+      "title": "Insulation Contractor Newark, CA | East Bay Insulation",
+      "keyword": "insulation contractor newark",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/newark-ca/index.html"
+    },
+    {
+      "url": "/areas-served/san-lorenzo-ca/",
+      "slug": "san-lorenzo-ca",
+      "type": "area",
+      "page_name": "San Lorenzo, CA",
+      "title": "Insulation Contractor San Lorenzo, CA | East Bay Insulation",
+      "keyword": "insulation contractor san lorenzo",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/san-lorenzo-ca/index.html"
+    },
+    {
+      "url": "/areas-served/albany-ca/",
+      "slug": "albany-ca",
+      "type": "area",
+      "page_name": "Albany, CA",
+      "title": "Insulation Contractor Albany, CA | East Bay Insulation",
+      "keyword": "insulation contractor albany",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/albany-ca/index.html"
+    },
+    {
+      "url": "/areas-served/el-cerrito-ca/",
+      "slug": "el-cerrito-ca",
+      "type": "area",
+      "page_name": "El Cerrito, CA",
+      "title": "Insulation Contractor El Cerrito, CA | East Bay Insulation",
+      "keyword": "insulation contractor el cerrito",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/el-cerrito-ca/index.html"
+    },
+    {
+      "url": "/areas-served/richmond-ca/",
+      "slug": "richmond-ca",
+      "type": "area",
+      "page_name": "Richmond, CA",
+      "title": "Insulation Contractor Richmond, CA | East Bay Insulation",
+      "keyword": "insulation contractor richmond",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/richmond-ca/index.html"
+    },
+    {
+      "url": "/areas-served/piedmont-ca/",
+      "slug": "piedmont-ca",
+      "type": "area",
+      "page_name": "Piedmont, CA",
+      "title": "Insulation Contractor Piedmont, CA | East Bay Insulation",
+      "keyword": "insulation contractor piedmont",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/piedmont-ca/index.html"
+    },
+    {
+      "url": "/areas-served/emeryville-ca/",
+      "slug": "emeryville-ca",
+      "type": "area",
+      "page_name": "Emeryville, CA",
+      "title": "Insulation Contractor Emeryville, CA | East Bay Insulation",
+      "keyword": "insulation contractor emeryville",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/emeryville-ca/index.html"
+    },
+    {
+      "url": "/areas-served/livermore-ca/",
+      "slug": "livermore-ca",
+      "type": "area",
+      "page_name": "Livermore, CA",
+      "title": "Insulation Contractor Livermore, CA | East Bay Insulation",
+      "keyword": "insulation contractor livermore",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/livermore-ca/index.html"
+    },
+    {
+      "url": "/areas-served/dublin-ca/",
+      "slug": "dublin-ca",
+      "type": "area",
+      "page_name": "Dublin, CA",
+      "title": "Insulation Contractor Dublin, CA | East Bay Insulation",
+      "keyword": "insulation contractor dublin",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/dublin-ca/index.html"
+    },
+    {
+      "url": "/areas-served/pleasanton-ca/",
+      "slug": "pleasanton-ca",
+      "type": "area",
+      "page_name": "Pleasanton, CA",
+      "title": "Insulation Contractor Pleasanton, CA | East Bay Insulation",
+      "keyword": "insulation contractor pleasanton",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/pleasanton-ca/index.html"
+    },
+    {
+      "url": "/areas-served/walnut-creek-ca/",
+      "slug": "walnut-creek-ca",
+      "type": "area",
+      "page_name": "Walnut Creek, CA",
+      "title": "Insulation Contractor Walnut Creek, CA | East Bay Insulation",
+      "keyword": "insulation contractor walnut creek",
+      "parent": "/areas-served/",
+      "intent": "transactional",
+      "file": "areas-served/walnut-creek-ca/index.html"
+    },
+    {
+      "url": "/about/",
+      "slug": "about",
+      "type": "about",
+      "page_name": "About",
+      "title": "About | East Bay Insulation",
+      "keyword": "",
+      "parent": "/",
+      "intent": "",
+      "file": "about/index.html"
+    },
+    {
+      "url": "/contact/",
+      "slug": "contact",
+      "type": "contact",
+      "page_name": "Contact",
+      "title": "Contact | East Bay Insulation",
+      "keyword": "",
+      "parent": "/",
+      "intent": "",
+      "file": "contact/index.html"
+    },
+    {
+      "url": "/privacy-policy/",
+      "slug": "privacy-policy",
+      "type": "legal",
+      "page_name": "Privacy Policy",
+      "title": "Privacy Policy | East Bay Insulation",
+      "keyword": "",
+      "parent": "/",
+      "intent": "",
+      "file": "privacy-policy/index.html"
+    },
+    {
+      "url": "/blog/attic-insulation-cost-east-bay/",
+      "slug": "attic-insulation-cost-east-bay",
+      "type": "blog",
+      "page_name": "How Much Does Attic Insulation Cost in the East Bay?",
+      "title": "How Much Does Attic Insulation Cost in the East Bay?",
+      "keyword": "attic insulation cost east bay",
+      "parent": "/blog/",
+      "intent": "commercial",
+      "file": "blog/attic-insulation-cost-east-bay/index.html"
+    },
+    {
+      "url": "/blog/spray-foam-vs-fiberglass/",
+      "slug": "spray-foam-vs-fiberglass",
+      "type": "blog",
+      "page_name": "Spray Foam vs Fiberglass: Which Suits Bay Area Homes?",
+      "title": "Spray Foam vs Fiberglass: Which Suits Bay Area Homes?",
+      "keyword": "spray foam vs fiberglass",
+      "parent": "/blog/",
+      "intent": "informational",
+      "file": "blog/spray-foam-vs-fiberglass/index.html"
+    }
+  ],
+  "nav": {
+    "services": [
+      {
+        "url": "/services/attic-insulation/",
+        "name": "Attic Insulation"
+      },
+      {
+        "url": "/services/spray-foam-insulation/",
+        "name": "Spray Foam Insulation"
+      },
+      {
+        "url": "/services/crawl-space-encapsulation/",
+        "name": "Crawl Space Encapsulation"
+      },
+      {
+        "url": "/services/blown-in-insulation/",
+        "name": "Blown-In Insulation"
+      },
+      {
+        "url": "/services/crawl-space-insulation/",
+        "name": "Crawl Space Insulation"
+      },
+      {
+        "url": "/services/closed-cell-spray-foam/",
+        "name": "Closed-Cell Spray Foam"
+      },
+      {
+        "url": "/services/cellulose-insulation/",
+        "name": "Cellulose Insulation"
+      },
+      {
+        "url": "/services/mineral-wool-insulation/",
+        "name": "Mineral Wool Insulation"
+      },
+      {
+        "url": "/services/garage-insulation/",
+        "name": "Garage Insulation"
+      },
+      {
+        "url": "/services/wall-insulation/",
+        "name": "Wall Insulation"
+      },
+      {
+        "url": "/services/insulation-removal/",
+        "name": "Insulation Removal"
+      },
+      {
+        "url": "/services/radiant-barrier-insulation/",
+        "name": "Radiant Barrier Insulation"
+      },
+      {
+        "url": "/services/duct-replacement/",
+        "name": "Duct Replacement"
+      },
+      {
+        "url": "/services/soundproofing-insulation/",
+        "name": "Soundproofing Insulation"
+      },
+      {
+        "url": "/services/attic-insulation-removal/",
+        "name": "Attic Insulation Removal"
+      },
+      {
+        "url": "/services/air-sealing/",
+        "name": "Air Sealing"
+      },
+      {
+        "url": "/services/attic-insulation-replacement/",
+        "name": "Attic Insulation Replacement"
+      },
+      {
+        "url": "/services/attic-cleaning/",
+        "name": "Attic Cleaning"
+      },
+      {
+        "url": "/services/vapor-barrier-installation/",
+        "name": "Vapor Barrier Installation"
+      },
+      {
+        "url": "/services/rodent-proofing/",
+        "name": "Rodent Proofing"
+      },
+      {
+        "url": "/services/rodent-exclusion/",
+        "name": "Rodent Exclusion"
+      },
+      {
+        "url": "/services/insulation-replacement/",
+        "name": "Insulation Replacement"
+      },
+      {
+        "url": "/services/fiberglass-insulation/",
+        "name": "Fiberglass Insulation"
+      }
+    ],
+    "areas": [
+      {
+        "url": "/areas-served/oakland-ca/",
+        "name": "Oakland, CA"
+      },
+      {
+        "url": "/areas-served/hayward-ca/",
+        "name": "Hayward, CA"
+      },
+      {
+        "url": "/areas-served/castro-valley-ca/",
+        "name": "Castro Valley, CA"
+      },
+      {
+        "url": "/areas-served/alameda-ca/",
+        "name": "Alameda, CA"
+      },
+      {
+        "url": "/areas-served/berkeley-ca/",
+        "name": "Berkeley, CA"
+      },
+      {
+        "url": "/areas-served/fremont-ca/",
+        "name": "Fremont, CA"
+      },
+      {
+        "url": "/areas-served/union-city-ca/",
+        "name": "Union City, CA"
+      },
+      {
+        "url": "/areas-served/newark-ca/",
+        "name": "Newark, CA"
+      },
+      {
+        "url": "/areas-served/san-lorenzo-ca/",
+        "name": "San Lorenzo, CA"
+      },
+      {
+        "url": "/areas-served/albany-ca/",
+        "name": "Albany, CA"
+      },
+      {
+        "url": "/areas-served/el-cerrito-ca/",
+        "name": "El Cerrito, CA"
+      },
+      {
+        "url": "/areas-served/richmond-ca/",
+        "name": "Richmond, CA"
+      },
+      {
+        "url": "/areas-served/piedmont-ca/",
+        "name": "Piedmont, CA"
+      },
+      {
+        "url": "/areas-served/emeryville-ca/",
+        "name": "Emeryville, CA"
+      },
+      {
+        "url": "/areas-served/livermore-ca/",
+        "name": "Livermore, CA"
+      },
+      {
+        "url": "/areas-served/dublin-ca/",
+        "name": "Dublin, CA"
+      },
+      {
+        "url": "/areas-served/pleasanton-ca/",
+        "name": "Pleasanton, CA"
+      },
+      {
+        "url": "/areas-served/walnut-creek-ca/",
+        "name": "Walnut Creek, CA"
+      }
+    ]
+  }
+}

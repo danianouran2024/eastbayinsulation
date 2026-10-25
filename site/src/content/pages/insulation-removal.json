@@ -1,0 +1,117 @@
+{
+  "h1": "Insulation Removal in San Leandro, CA",
+  "description": "Insulation removal in San Leandro, CA: vacuum out old, damp or contaminated insulation from attics, crawl spaces and walls. Get a free inspection.",
+  "intro": "We vacuum out old, damp or contaminated insulation from attics, crawl spaces and walls, and leave the space clean and ready for new material. Free inspection, fixed written estimate.",
+  "hero_image": "insulation-removal-hero",
+  "hero_alt": "Vacuum hose removing old insulation from an attic",
+  "sections": [
+    {
+      "h2": "When old insulation has to go",
+      "paragraphs": [
+        "Insulation gets removed when it has stopped working or turned into a problem: water damage, mold, rodent nesting, or material so compressed it holds no air. Topping up over any of those just buries the problem deeper."
+      ],
+      "bullets": [
+        "Water damage and mold",
+        "Rodent nests and droppings",
+        "Compressed, settled or blown-around material"
+      ]
+    },
+    {
+      "h2": "Attics, crawl spaces and walls",
+      "paragraphs": [
+        "Removal is not only an attic job. We vacuum out crawl space batts hanging from floor joists, wall cavities being opened up for a remodel, and garage or bonus room spaces, using the same truck-mounted vacuum."
+      ],
+      "bullets": [
+        "Attic floors and roof decks",
+        "Crawl space floors and joist bays",
+        "Wall cavities during remodels"
+      ]
+    },
+    {
+      "h2": "Damp, mold and rodent contamination",
+      "paragraphs": [
+        "Contaminated insulation cannot be sealed over. We pull it out, sanitize the surfaces, and address the source so the new material starts clean. For rodent damage we coordinate with entry point sealing so the problem does not come back."
+      ],
+      "bullets": [
+        "Contaminated material pulled out completely",
+        "Surfaces sanitized before anything new",
+        "Source problems addressed, not buried"
+      ]
+    },
+    {
+      "h2": "How the vacuum removal works",
+      "paragraphs": [
+        "A truck-mounted vacuum with a long hose reaches from the street to the attic or crawl space, so the old material never moves through your living space. Drop cloths protect the floors, and the bagged material is hauled away the same day."
+      ],
+      "bullets": [
+        "Truck-mounted vacuum, hose to the space",
+        "No old material through the house",
+        "Material bagged and hauled off"
+      ]
+    },
+    {
+      "h2": "What happens after removal",
+      "paragraphs": [
+        "Once the space is empty we inspect the framing and surfaces underneath. That is the moment problems like leaks or dry rot become visible, and we point them out before new insulation covers them again."
+      ],
+      "bullets": [
+        "Surfaces inspected while exposed",
+        "Leaks and damage caught before reinsulation",
+        "Space left clean and ready for new material"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We assess the old material, check for damp or contamination, and quote the removal in writing.",
+      "image": "insulation-removal-step-1",
+      "image_alt": "Inspecting old insulation before removal"
+    },
+    {
+      "name": "Setup",
+      "text": "Drop cloths go down and the vacuum hose is run from the truck to the space being emptied.",
+      "image": "insulation-removal-step-2",
+      "image_alt": "Running a vacuum hose into a home"
+    },
+    {
+      "name": "Vacuum",
+      "text": "The old insulation is pulled out through the hose and bagged at the truck, never carried through the house.",
+      "image": "insulation-removal-step-3",
+      "image_alt": "Vacuuming old insulation out of a crawl space"
+    },
+    {
+      "name": "Clean and check",
+      "text": "We clear the residue, inspect the exposed framing, and confirm the space is ready for new material.",
+      "image": "insulation-removal-step-4",
+      "image_alt": "Clean attic floor after insulation removal"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does insulation removal cost?",
+      "a": "It follows the area, the material and how hard the space is to reach. The inspection gives you a fixed written estimate, and removal is quoted together with reinsulation when you are doing both."
+    },
+    {
+      "q": "Do I have to remove insulation before reinsulating?",
+      "a": "Only when it is damp, moldy, rodent-damaged or useless from settling. Healthy old material can often stay and be topped up, which costs less."
+    },
+    {
+      "q": "Can you remove insulation from a crawl space?",
+      "a": "Yes. We vacuum out floor and joist bay insulation in crawl spaces the same way we do attics, using the truck-mounted vacuum and a long hose."
+    },
+    {
+      "q": "What if there are rodents in the insulation?",
+      "a": "We pull out the contaminated material, sanitize, and coordinate entry point sealing before anything new goes in. Leaving the droppings in place is not an option we will take."
+    },
+    {
+      "q": "How long does removal take?",
+      "a": "Most attic removals finish in a day. Larger homes, crawl spaces and badly contaminated material can run longer, and we say so in the estimate."
+    },
+    {
+      "q": "What happens to the removed material?",
+      "a": "It is bagged at the truck and hauled away the same day, and the workspace is left clean for whatever comes next."
+    }
+  ],
+  "related": ["attic-insulation-removal", "insulation-replacement", "attic-insulation"]
+}

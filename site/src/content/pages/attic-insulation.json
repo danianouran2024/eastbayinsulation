@@ -1,0 +1,107 @@
+{
+  "h1": "Attic Insulation in San Leandro, CA",
+  "description": "Attic insulation removal and installation in San Leandro, CA. Modern R-values for East Bay homes. Get a free inspection and a written estimate.",
+  "intro": "We remove old, compressed or rodent-damaged attic insulation and reinsulate to current R-values, with air sealing included so the new material does its job. Free inspection, fixed written estimate.",
+  "hero_image": "attic-insulation-hero",
+  "hero_alt": "Fresh blown-in attic insulation in an East Bay home",
+  "sections": [
+    {
+      "h2": "Included in every attic job",
+      "paragraphs": [
+        "Every attic job starts with an inspection of the roof deck, vents and any existing insulation. We note what is still working and what has to come out before new material goes in."
+      ],
+      "bullets": [
+        "Removal of old, compressed or rodent-damaged insulation",
+        "Air sealing of top plates, penetrations and bypasses",
+        "Blown-in fiberglass or cellulose to the R-value your house needs",
+        "Attic access and hatch weatherproofing",
+        "Cleanup of debris and rodent droppings before install"
+      ]
+    },
+    {
+      "h2": "What drives the cost",
+      "paragraphs": [
+        "Attic size is the main driver, then the condition of what is up there now. A clean attic that just needs topping up costs less than one with compressed old batts, rodent damage or mold that has to be vacuumed out first.",
+        "The R-value target also matters. Most East Bay homes do well between R-38 and R-60, and we quote a number for the attic we actually inspected, not a guess."
+      ]
+    },
+    {
+      "h2": "Old insulation and rodents",
+      "paragraphs": [
+        "Rodents nest in attic insulation. If droppings, tunnels or chewed material show up in the inspection, we pause the insulation plan and seal the entry points first. New insulation over an open rodent highway is wasted money.",
+        "Our crews handle the full sequence: seal every penetration, remove the contaminated material, sanitize the space, then reinsulate."
+      ]
+    },
+    {
+      "h2": "East Bay conditions",
+      "paragraphs": [
+        "The marine layer keeps coastal attics damp, and summer sun bakes the roof deck. We vent and insulate for both: enough airflow to keep the deck dry, enough insulation to hold indoor temperatures steady."
+      ],
+      "bullets": [
+        "Vent checks with every attic job",
+        "Baffles so insulation never blocks the soffits",
+        "Moisture readings before material goes in"
+      ]
+    },
+    {
+      "h2": "What to expect on install day",
+      "paragraphs": [
+        "A two-person crew, a vacuum truck for removals, and drop cloths through the house. Most attics are done in one day. We walk you through the finished attic before we leave, and the city inspector checks the work where a permit applies.",
+        "After the job we send photos of the finished attic and a receipt for the material and the R-value installed."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We measure the attic, read the moisture levels, and check the vents and the current insulation. You get a fixed written estimate the same day.",
+      "image": "attic-insulation-step-1",
+      "image_alt": "Inspecting an attic before insulation work"
+    },
+    {
+      "name": "Removal and sealing",
+      "text": "Old or damaged insulation is vacuumed out. We air seal the leaks that let warm air into the attic, then prep the space.",
+      "image": "attic-insulation-step-2",
+      "image_alt": "Vacuuming old attic insulation out"
+    },
+    {
+      "name": "Install",
+      "text": "Fresh blown-in insulation goes in to the agreed R-value, with depth markers so you can verify it yourself.",
+      "image": "attic-insulation-step-3",
+      "image_alt": "Blowing insulation into an attic"
+    },
+    {
+      "name": "Verify",
+      "text": "We walk you through the finished attic, confirm the depth, and schedule any city inspection the job needs.",
+      "image": "attic-insulation-step-4",
+      "image_alt": "Finished attic insulation with depth markers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does attic insulation cost in San Leandro?",
+      "a": "Most attic jobs in the area fall between a simple top-up and a full remove-and-reinsulate. The free inspection is what turns that range into your exact number, because attic size and the condition of the old material decide the price."
+    },
+    {
+      "q": "Do I need to remove the old insulation first?",
+      "a": "Only if it is compressed, damp, moldy or rodent-damaged. Healthy old insulation can often be topped up with new material, which costs less."
+    },
+    {
+      "q": "How long does the job take?",
+      "a": "A typical attic takes one day, including removal when needed. Larger homes or rodent cleanup can run into a second day, and we say so in the estimate."
+    },
+    {
+      "q": "What R-value does my attic need?",
+      "a": "That depends on the house and the insulation type. Most East Bay attics land between R-38 and R-60. We quote the R-value for your specific attic in the written estimate."
+    },
+    {
+      "q": "Do I need a permit for attic insulation?",
+      "a": "In San Leandro, insulation work goes through the city's Building and Safety Division and cannot be covered before it passes inspection. We pull the permit and schedule the inspection where one applies."
+    },
+    {
+      "q": "Can you do the job if there are rodents in the attic?",
+      "a": "Yes. We seal the entry points, remove the contaminated insulation, sanitize, and only then reinsulate. Insulating first would just give the rodents fresh nesting material."
+    }
+  ],
+  "related": ["spray-foam-insulation", "insulation-removal", "attic-insulation-replacement"]
+}

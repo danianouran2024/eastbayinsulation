@@ -1,0 +1,53 @@
+{
+  "h1": "Insulation Contractor in Livermore, CA",
+  "description": "Insulation contractor in Livermore, CA, 25 miles east of our San Leandro base via I-580. Attic, crawl space and wall insulation. Book a free inspection.",
+  "intro": "Livermore is about 25 miles east of our San Leandro base, reached via I-580. We insulate attics, seal crawl spaces and replace old insulation in homes across the city. Each job starts with a free inspection and a written estimate.",
+  "sections": [
+    {
+      "h2": "Serving Livermore from San Leandro",
+      "paragraphs": [
+        "Livermore sits about 25 miles east of San Leandro on I-580, near the far end of our service area.",
+        "The same crew that works San Leandro jobs works Livermore jobs, with no hand-offs."
+      ],
+      "bullets": []
+    },
+    {
+      "h2": "The services Livermore homeowners call for",
+      "paragraphs": [
+        "Calls from Livermore most often cover attic insulation, crawl space encapsulation and air sealing."
+      ],
+      "bullets": [
+        "Attic insulation and replacement",
+        "Crawl space encapsulation and vapor barriers",
+        "Air sealing",
+        "Spray foam for attics and rim joists",
+        "Rodent exclusion before reinsulation"
+      ]
+    },
+    {
+      "h2": "How a Livermore job works",
+      "paragraphs": [
+        "We inspect first, then write a fixed estimate. The same crew handles the install and the follow-up visit."
+      ],
+      "bullets": [
+        "Free inspection with a written estimate",
+        "Fixed pricing once approved",
+        "A return visit to confirm the work held"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far is Livermore from San Leandro?",
+      "a": "About 25 miles east, via I-580. Livermore sits inside the roughly 30 mile radius we cover."
+    },
+    {
+      "q": "Do you install spray foam in Livermore?",
+      "a": "Yes. Spray foam for attics, rim joists and crawl spaces is part of what we install across the East Bay, including Livermore."
+    },
+    {
+      "q": "What happens at the inspection?",
+      "a": "We check the attic, crawl space and walls, note what is there and what should be replaced, then write a fixed estimate."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "h1": "Duct Replacement in San Leandro, CA",
+  "description": "Duct replacement in San Leandro, CA: replace damaged, leaking ductwork and insulate the new runs for better airflow and comfort. Get a free inspection.",
+  "intro": "We replace crushed, torn or poorly run ductwork and insulate the new runs so heated and cooled air actually reaches the rooms. Free inspection, fixed written estimate.",
+  "hero_image": "duct-replacement-hero",
+  "hero_alt": "New insulated ductwork installed in an attic",
+  "sections": [
+    {
+      "h2": "Signs your ducts are failing",
+      "paragraphs": [
+        "Rooms that never warm up or cool down, dust around the registers, and a furnace that runs long cycles all point at the ducts. A duct system leaks air into the attic or crawl space, and the rooms pay for it."
+      ],
+      "bullets": [
+        "Uneven room temperatures",
+        "Dust and debris at the registers",
+        "Long furnace run times"
+      ]
+    },
+    {
+      "h2": "Where ducts leak the most",
+      "paragraphs": [
+        "Joints and connections separate over time, flex duct gets crushed in attics and crawl spaces, and runs that were never sealed lose air from day one. In East Bay homes the worst offenders are usually in the attic, where heat and age do the most damage."
+      ],
+      "bullets": [
+        "Separated joints and loose connections",
+        "Crushed flex duct in attics and crawl spaces",
+        "Unsealed runs from the original build"
+      ]
+    },
+    {
+      "h2": "Replace or repair, decided honestly",
+      "paragraphs": [
+        "We quote repair where the duct is sound and the run is short. When duct is crushed, torn or full of debris, replacement is the honest fix, and we size the new runs to the room loads rather than copying what was there."
+      ],
+      "bullets": [
+        "Repair quoted where ducts are sound",
+        "Replacement sized to each room's load",
+        "No padding the job into work you do not need"
+      ]
+    },
+    {
+      "h2": "Insulating the new ductwork",
+      "paragraphs": [
+        "Ducts running through attics and crawl spaces sit in unconditioned air, so the new runs get insulated to keep the air at the right temperature until it reaches the room. We check the register connections at the same time."
+      ],
+      "bullets": [
+        "Insulated ducts for attic and crawl space runs",
+        "Register connections checked",
+        "Air stays warm or cool to the room"
+      ]
+    },
+    {
+      "h2": "From tear-out to airflow test",
+      "paragraphs": [
+        "Old runs come out, new runs go in with sealed connections, and we finish with an airflow check at the registers so you can feel the difference in the rooms that were starved. Most replacements are done in one to two days."
+      ],
+      "bullets": [
+        "Sealed connections at every joint",
+        "Airflow checked at the registers",
+        "Most homes done in one to two days"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We trace the duct runs, find the leaks and damage, and measure the airflow at the registers.",
+      "image": "duct-replacement-step-1",
+      "image_alt": "Inspecting ductwork in an attic"
+    },
+    {
+      "name": "Plan the runs",
+      "text": "New runs are sized to each room and the replacement scope is written into the estimate.",
+      "image": "duct-replacement-step-2",
+      "image_alt": "Planning new duct runs with a layout drawing"
+    },
+    {
+      "name": "Replace",
+      "text": "Old duct comes out, and the new insulated runs go in with sealed, supported connections.",
+      "image": "duct-replacement-step-3",
+      "image_alt": "Installing new insulated ductwork"
+    },
+    {
+      "name": "Airflow check",
+      "text": "We test the airflow at the registers and adjust so the rooms that were starved finally get their share.",
+      "image": "duct-replacement-step-4",
+      "image_alt": "Checking airflow at a wall register"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does duct replacement cost?",
+      "a": "It follows the number of runs, the access and how much of the system has to go. The free inspection traces your actual ductwork and turns that into a fixed written estimate."
+    },
+    {
+      "q": "How do I know if my ducts need replacing?",
+      "a": "Uneven room temperatures, dusty registers and long furnace cycles are the usual clues. The inspection finds the leaks and crushed runs and shows you what is causing it."
+    },
+    {
+      "q": "Can you repair ducts instead of replacing them?",
+      "a": "Where the duct is sound we quote repair first. Crushed, torn or debris-filled runs are better replaced, and we will show you why before you decide."
+    },
+    {
+      "q": "Should new ducts be insulated?",
+      "a": "In attics and crawl spaces, yes. The air has to travel through unconditioned space, and insulation keeps it at temperature until it reaches the rooms."
+    },
+    {
+      "q": "How long does duct replacement take?",
+      "a": "Most homes are done in one to two days depending on how many runs are replaced and how tight the access is. The estimate states the timeline."
+    },
+    {
+      "q": "Will new ducts improve my airflow?",
+      "a": "That is usually the first change people notice. Sealed, properly sized runs deliver the air the old leaking system was losing, and we check the registers before we leave."
+    }
+  ],
+  "related": ["air-sealing", "attic-insulation", "crawl-space-encapsulation"]
+}

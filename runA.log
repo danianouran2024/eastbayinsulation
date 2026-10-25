@@ -1,0 +1,20 @@
+12 image(s) queued | model=gpt-image-2-text-to-image | 1K | 4:3 | concurrency=6
+ok  crawl-space-encapsulation-hero  2127111B 1448x1086  task=2946bb6bc8da23915b1f72e3803e0bb9
+ok  crawl-space-insulation-hero  2132873B 1448x1086  task=d1e7af184db00ed831918514a49bbc9d
+ok  closed-cell-spray-foam-hero  2888858B 1448x1086  task=56d0d95d4180d53520b0a27720c889bb
+ok  garage-insulation-hero  2413587B 1448x1086  task=2120394ccd5f824f97f33bf720232e46
+ok  blown-in-insulation-hero  2659163B 1448x1086  task=9f274d4c55cbd8b7633c93592e63f47f
+ok  cellulose-insulation-hero  3400737B 1448x1086  task=ba01fd0ef0cd56313336ad021d86419c
+ok  insulation-removal-hero  2845305B 1448x1086  task=991e63dea61f0b8022d1ccc91ff0cba4
+ERR home-band: fetch failed
+ok  radiant-barrier-insulation-hero  3384712B 1448x1086  task=7a71a9ac22e3550452ee74bd2da39a09
+ok  wall-insulation-hero  3455427B 1448x1086  task=85629d5fc5eecdeedf1bb20f6c19b7cf
+ok  spray-foam-insulation-hero  2593922B 1448x1086  task=fbee204c19de8b09c77bbaab8d7ec537
+ok  mineral-wool-insulation-hero  3131107B 1448x1086  task=02ae0ef1eeb078a6616e27bd08bb1954
+done 11 / failed 1
+[
+  {
+    "name": "home-band",
+    "error": "fetch failed"
+  }
+]

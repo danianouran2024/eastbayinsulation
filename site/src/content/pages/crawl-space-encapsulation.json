@@ -1,0 +1,107 @@
+{
+  "h1": "Crawl Space Encapsulation in San Leandro, CA",
+  "description": "Crawl space encapsulation in San Leandro, CA: vapor barriers and sealed crawl spaces that keep Bay Area moisture out. Get a free inspection.",
+  "intro": "We seal crawl spaces against the damp air that comes up from the ground, with a vapor barrier, sealed vents and a dehumidifier where the space calls for one. Free inspection with a moisture reading.",
+  "hero_image": "crawl-space-encapsulation-hero",
+  "hero_alt": "Sealed crawl space with a clean vapor barrier",
+  "sections": [
+    {
+      "h2": "Why East Bay crawl spaces stay wet",
+      "paragraphs": [
+        "Crawl spaces pull in damp air through open vents, and the soil under the house keeps releasing moisture. In the East Bay the marine layer makes it worse: cool, humid air moves through the vents and condenses on the floor joists.",
+        "That damp feeds musty smells upstairs, warps wood over time, and makes the rest of the insulation work harder than it should."
+      ]
+    },
+    {
+      "h2": "What an encapsulation includes",
+      "paragraphs": [
+        "Encapsulation means closing the crawl space off from outside air and ground moisture as one system, not just laying plastic."
+      ],
+      "bullets": [
+        "Vapor barrier sealed up the foundation walls and around piers",
+        "Vent closure or a vented dehumidifier sized for the space",
+        "Rim joist sealing and insulation",
+        "Optional floor insulation above the barrier",
+        "Access door weatherproofing"
+      ]
+    },
+    {
+      "h2": "Encapsulation vs just a barrier",
+      "paragraphs": [
+        "A loose barrier on the ground slows evaporation but does not stop humid outside air from moving through the vents. Encapsulation seals the space as a system, and that is what actually dries it out.",
+        "For most East Bay homes the difference shows within weeks: floors feel less cold, the musty smell fades, and the humidity reading inside the crawl space drops into a stable range."
+      ]
+    },
+    {
+      "h2": "Cost drivers",
+      "paragraphs": [
+        "Crawl space size, headroom and what is under there now set the price: a clean, tall space costs less to seal than a tight one with old debris, standing water or damaged piers.",
+        "We take moisture readings before and after and write the target humidity range into the estimate, so the result is measurable."
+      ],
+      "bullets": [
+        "Moisture readings on every inspection",
+        "Fixed estimate after we see the space",
+        "Target humidity range stated up front"
+      ]
+    },
+    {
+      "h2": "What to expect after",
+      "paragraphs": [
+        "Once the space is sealed, we re-check it at the follow-up visit and adjust the dehumidifier settings if the readings call for it. A sealed crawl space also changes how we insulate the floor above, so we plan the two together instead of doubling back later."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We measure the space, read the humidity and moisture levels, and check the vents, piers and rim joists.",
+      "image": "crawl-space-encapsulation-step-1",
+      "image_alt": "Inspecting a crawl space with a moisture meter"
+    },
+    {
+      "name": "Prep",
+      "text": "Debris is removed and the ground is graded so the barrier can be laid tight to the walls.",
+      "image": "crawl-space-encapsulation-step-2",
+      "image_alt": "Prepping a crawl space floor"
+    },
+    {
+      "name": "Seal",
+      "text": "The barrier is sealed up the walls and around piers, vents are closed, and the rim joist is sealed and insulated.",
+      "image": "crawl-space-encapsulation-step-3",
+      "image_alt": "Sealing a vapor barrier up a foundation wall"
+    },
+    {
+      "name": "Verify",
+      "text": "We re-check humidity after the space settles and adjust the dehumidifier at the follow-up visit.",
+      "image": "crawl-space-encapsulation-step-4",
+      "image_alt": "Reading humidity in a finished crawl space"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does crawl space encapsulation cost?",
+      "a": "It follows the size of the space and what is under there now. The inspection gives you a fixed written estimate based on your actual crawl space, not a square-foot guess."
+    },
+    {
+      "q": "Is encapsulation worth it for my house?",
+      "a": "If the crawl space smells musty, floors feel damp-cold, or the humidity reading sits high, sealing it usually fixes all three at once and protects the joists from moisture damage."
+    },
+    {
+      "q": "Do I still need a dehumidifier after sealing?",
+      "a": "Many sealed crawl spaces hold a stable range on their own, but low-lying or shady sites often need a small dehumidifier. We size it after the sealing is done, from the readings, not a catalog guess."
+    },
+    {
+      "q": "How long does the work take?",
+      "a": "A standard crawl space takes one to two days depending on size and access. Tight or debris-filled spaces run longer, and we say so in the estimate."
+    },
+    {
+      "q": "Can you insulate the floor at the same time?",
+      "a": "Yes, and it is usually the smart way: the barrier and the floor insulation work as one system, and doing both in one visit avoids a second mobilization."
+    },
+    {
+      "q": "Will the musty smell actually go away?",
+      "a": "Sealing stops the damp air coming in, and the smell fades as the space dries out, usually within weeks. If odors linger, we re-check for leaks or standing water at the follow-up visit."
+    }
+  ],
+  "related": ["crawl-space-insulation", "vapor-barrier-installation", "attic-insulation"]
+}

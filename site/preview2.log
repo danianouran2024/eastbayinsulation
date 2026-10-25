@@ -1,0 +1,11 @@
+Another astro preview server is already running.
+
+  URL:  http://localhost:4322
+  PID:  1432
+
+Run `astro preview stop` to stop it, or use `astro preview --force` to replace it.
+  [1mLocation:[22m
+    [4mC:\Users\saber\Desktop\skill Dania\sites\eastbay-insulation\site\node_modules\astro\dist\cli\preview\index.js:123:9[24m
+  [1mStack trace:[22m
+[2m    at preview (file:///C:/Users/saber/Desktop/skill%20Dania/sites/eastbay-insulation/site/node_modules/astro/dist/cli/preview/index.js:123:9)
+    at async runCommand (file:///C:/Users/saber/Desktop/skill%20Dania/sites/eastbay-insulation/site/node_modules/astro/dist/cli/index.js:183:19)[22m

@@ -1,0 +1,117 @@
+{
+  "h1": "Attic Insulation Removal in San Leandro, CA",
+  "description": "Attic insulation removal in San Leandro, CA: vacuum out old, damp or rodent-damaged insulation and clean the deck before reinsulating. Get a free inspection.",
+  "intro": "We vacuum old, damp or rodent-damaged insulation out of the attic, sanitize the surfaces, and hand you a clean space ready for new insulation. Free inspection, fixed written estimate.",
+  "hero_image": "attic-insulation-removal-hero",
+  "hero_alt": "Vacuum hose removing old insulation from an attic floor",
+  "sections": [
+    {
+      "h2": "When attic insulation has to come out",
+      "paragraphs": [
+        "Attic insulation gets removed when it has been wet, pressed flat, or turned into a rodent nest. Topping up over damaged material buries the problem, so the removal is what makes the reinsulation worth doing."
+      ],
+      "bullets": [
+        "Water and roof leaks",
+        "Rodent nests and droppings",
+        "Mold and compressed old material"
+      ]
+    },
+    {
+      "h2": "Rodent damage and contamination",
+      "paragraphs": [
+        "Rodents tunnel through attic insulation and leave droppings throughout it. We vacuum out every trace, sanitize the affected surfaces, and coordinate sealing the entry points so the new insulation does not become the next nest."
+      ],
+      "bullets": [
+        "Contaminated material fully removed",
+        "Surfaces sanitized after vacuuming",
+        "Entry points sealed before reinsulation"
+      ]
+    },
+    {
+      "h2": "How attic vacuuming works",
+      "paragraphs": [
+        "A truck-mounted vacuum runs a long hose from the street up to the attic, so the old material is pulled straight into bags at the truck and never passes through your living space. Floors are covered along the hose path."
+      ],
+      "bullets": [
+        "Truck-mounted vacuum, hose to the attic",
+        "Nothing carried through the house",
+        "Bags hauled away the same day"
+      ]
+    },
+    {
+      "h2": "Removal before reinsulation",
+      "paragraphs": [
+        "We quote removal and reinsulation as one sequence: vacuum, sanitize, seal, then blow in the new material to the R-value your attic needs. Doing both in one visit means the attic is never left exposed between jobs."
+      ],
+      "bullets": [
+        "One crew, one visit where possible",
+        "Sealing and insulation quoted together",
+        "New material installed only after the space is clean"
+      ]
+    },
+    {
+      "h2": "On removal day",
+      "paragraphs": [
+        "The crew lays protection along the path, runs the hose, and works until the attic floor is down to bare deck. We show you the empty attic before anything new goes in, so you see exactly what was removed."
+      ],
+      "bullets": [
+        "Protection laid before work starts",
+        "Bare deck by end of day on most attics",
+        "Walkthrough before reinsulation"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We climb up, check the material for damp and contamination, and quote removal and reinsulation in writing.",
+      "image": "attic-insulation-removal-step-1",
+      "image_alt": "Inspecting attic insulation for removal"
+    },
+    {
+      "name": "Setup",
+      "text": "The hose is run from the truck to the attic and the floors along the path are covered.",
+      "image": "attic-insulation-removal-step-2",
+      "image_alt": "Setting up a vacuum hose for attic removal"
+    },
+    {
+      "name": "Vacuum",
+      "text": "Old insulation, debris and droppings are pulled out through the hose and bagged at the truck.",
+      "image": "attic-insulation-removal-step-3",
+      "image_alt": "Vacuuming insulation out of an attic"
+    },
+    {
+      "name": "Sanitize and prep",
+      "text": "The attic floor is treated, the space is checked clean, and it is ready for sealing and new insulation.",
+      "image": "attic-insulation-removal-step-4",
+      "image_alt": "Clean attic deck ready for new insulation"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does attic insulation removal cost?",
+      "a": "It follows the attic size, the depth of the material and how contaminated it is. The inspection gives you a fixed written estimate, usually quoted together with the reinsulation that follows."
+    },
+    {
+      "q": "Do I need to remove old attic insulation?",
+      "a": "Only if it is damp, moldy, rodent-damaged or pressed flat. Healthy material can often be topped up instead, which we will confirm during the inspection."
+    },
+    {
+      "q": "How long does attic removal take?",
+      "a": "Most attics are vacuumed out in one day. Deep material, heavy contamination or tough access can run into a second day, and the estimate will say so."
+    },
+    {
+      "q": "What if there are rodents in the attic insulation?",
+      "a": "That is a common reason for removal. We vacuum out the contaminated material, sanitize, and seal the entry points before any new insulation goes in."
+    },
+    {
+      "q": "Can you reinsulate the same day?",
+      "a": "Often yes. Once the attic is empty and sanitized, sealing and new blown-in insulation can follow in the same visit, so the attic is not left open between jobs."
+    },
+    {
+      "q": "What happens to the old insulation?",
+      "a": "It is bagged at the truck and hauled away the same day. Nothing is left in the attic or around the house."
+    }
+  ],
+  "related": ["insulation-removal", "attic-insulation-replacement", "rodent-proofing"]
+}

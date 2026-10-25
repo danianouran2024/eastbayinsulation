@@ -1,0 +1,1397 @@
+{
+  "home-hero": {
+    "srcset": [
+      {
+        "file": "home-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "home-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "home-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 68
+  },
+  "home-band": {
+    "srcset": [
+      {
+        "file": "home-band-480.webp",
+        "w": 480
+      },
+      {
+        "file": "home-band-960.webp",
+        "w": 960
+      },
+      {
+        "file": "home-band-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1916,
+    "h": 821,
+    "q": 72
+  },
+  "attic-insulation-hero": {
+    "srcset": [
+      {
+        "file": "attic-insulation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "attic-insulation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "attic-insulation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "attic-insulation-step-1": {
+    "srcset": [
+      {
+        "file": "attic-insulation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-insulation-step-2": {
+    "srcset": [
+      {
+        "file": "attic-insulation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-insulation-step-3": {
+    "srcset": [
+      {
+        "file": "attic-insulation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-insulation-step-4": {
+    "srcset": [
+      {
+        "file": "attic-insulation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "spray-foam-insulation-hero": {
+    "srcset": [
+      {
+        "file": "spray-foam-insulation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "spray-foam-insulation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "spray-foam-insulation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "spray-foam-insulation-step-1": {
+    "srcset": [
+      {
+        "file": "spray-foam-insulation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "spray-foam-insulation-step-2": {
+    "srcset": [
+      {
+        "file": "spray-foam-insulation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "spray-foam-insulation-step-3": {
+    "srcset": [
+      {
+        "file": "spray-foam-insulation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "spray-foam-insulation-step-4": {
+    "srcset": [
+      {
+        "file": "spray-foam-insulation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "crawl-space-encapsulation-hero": {
+    "srcset": [
+      {
+        "file": "crawl-space-encapsulation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "crawl-space-encapsulation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "crawl-space-encapsulation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "crawl-space-encapsulation-step-1": {
+    "srcset": [
+      {
+        "file": "crawl-space-encapsulation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "crawl-space-encapsulation-step-2": {
+    "srcset": [
+      {
+        "file": "crawl-space-encapsulation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "crawl-space-encapsulation-step-3": {
+    "srcset": [
+      {
+        "file": "crawl-space-encapsulation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "crawl-space-encapsulation-step-4": {
+    "srcset": [
+      {
+        "file": "crawl-space-encapsulation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "blown-in-insulation-hero": {
+    "srcset": [
+      {
+        "file": "blown-in-insulation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "blown-in-insulation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "blown-in-insulation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "blown-in-insulation-step-1": {
+    "srcset": [
+      {
+        "file": "blown-in-insulation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "blown-in-insulation-step-2": {
+    "srcset": [
+      {
+        "file": "blown-in-insulation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "blown-in-insulation-step-3": {
+    "srcset": [
+      {
+        "file": "blown-in-insulation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "blown-in-insulation-step-4": {
+    "srcset": [
+      {
+        "file": "blown-in-insulation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "crawl-space-insulation-hero": {
+    "srcset": [
+      {
+        "file": "crawl-space-insulation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "crawl-space-insulation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "crawl-space-insulation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "crawl-space-insulation-step-1": {
+    "srcset": [
+      {
+        "file": "crawl-space-insulation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "crawl-space-insulation-step-2": {
+    "srcset": [
+      {
+        "file": "crawl-space-insulation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "crawl-space-insulation-step-3": {
+    "srcset": [
+      {
+        "file": "crawl-space-insulation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "crawl-space-insulation-step-4": {
+    "srcset": [
+      {
+        "file": "crawl-space-insulation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "closed-cell-spray-foam-hero": {
+    "srcset": [
+      {
+        "file": "closed-cell-spray-foam-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "closed-cell-spray-foam-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "closed-cell-spray-foam-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "closed-cell-spray-foam-step-1": {
+    "srcset": [
+      {
+        "file": "closed-cell-spray-foam-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "closed-cell-spray-foam-step-2": {
+    "srcset": [
+      {
+        "file": "closed-cell-spray-foam-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "closed-cell-spray-foam-step-3": {
+    "srcset": [
+      {
+        "file": "closed-cell-spray-foam-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "closed-cell-spray-foam-step-4": {
+    "srcset": [
+      {
+        "file": "closed-cell-spray-foam-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "cellulose-insulation-hero": {
+    "srcset": [
+      {
+        "file": "cellulose-insulation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "cellulose-insulation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "cellulose-insulation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 44
+  },
+  "cellulose-insulation-step-1": {
+    "srcset": [
+      {
+        "file": "cellulose-insulation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "cellulose-insulation-step-2": {
+    "srcset": [
+      {
+        "file": "cellulose-insulation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "cellulose-insulation-step-3": {
+    "srcset": [
+      {
+        "file": "cellulose-insulation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "cellulose-insulation-step-4": {
+    "srcset": [
+      {
+        "file": "cellulose-insulation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "mineral-wool-insulation-hero": {
+    "srcset": [
+      {
+        "file": "mineral-wool-insulation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "mineral-wool-insulation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "mineral-wool-insulation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "mineral-wool-insulation-step-1": {
+    "srcset": [
+      {
+        "file": "mineral-wool-insulation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "mineral-wool-insulation-step-2": {
+    "srcset": [
+      {
+        "file": "mineral-wool-insulation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "mineral-wool-insulation-step-3": {
+    "srcset": [
+      {
+        "file": "mineral-wool-insulation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "mineral-wool-insulation-step-4": {
+    "srcset": [
+      {
+        "file": "mineral-wool-insulation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "garage-insulation-hero": {
+    "srcset": [
+      {
+        "file": "garage-insulation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "garage-insulation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "garage-insulation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "garage-insulation-step-1": {
+    "srcset": [
+      {
+        "file": "garage-insulation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "garage-insulation-step-2": {
+    "srcset": [
+      {
+        "file": "garage-insulation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "garage-insulation-step-3": {
+    "srcset": [
+      {
+        "file": "garage-insulation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "garage-insulation-step-4": {
+    "srcset": [
+      {
+        "file": "garage-insulation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "wall-insulation-hero": {
+    "srcset": [
+      {
+        "file": "wall-insulation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "wall-insulation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "wall-insulation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 52
+  },
+  "wall-insulation-step-1": {
+    "srcset": [
+      {
+        "file": "wall-insulation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "wall-insulation-step-2": {
+    "srcset": [
+      {
+        "file": "wall-insulation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "wall-insulation-step-3": {
+    "srcset": [
+      {
+        "file": "wall-insulation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "wall-insulation-step-4": {
+    "srcset": [
+      {
+        "file": "wall-insulation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "insulation-removal-hero": {
+    "srcset": [
+      {
+        "file": "insulation-removal-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "insulation-removal-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "insulation-removal-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "insulation-removal-step-1": {
+    "srcset": [
+      {
+        "file": "insulation-removal-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "insulation-removal-step-2": {
+    "srcset": [
+      {
+        "file": "insulation-removal-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "insulation-removal-step-3": {
+    "srcset": [
+      {
+        "file": "insulation-removal-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "insulation-removal-step-4": {
+    "srcset": [
+      {
+        "file": "insulation-removal-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "radiant-barrier-insulation-hero": {
+    "srcset": [
+      {
+        "file": "radiant-barrier-insulation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "radiant-barrier-insulation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "radiant-barrier-insulation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 48
+  },
+  "radiant-barrier-insulation-step-1": {
+    "srcset": [
+      {
+        "file": "radiant-barrier-insulation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "radiant-barrier-insulation-step-2": {
+    "srcset": [
+      {
+        "file": "radiant-barrier-insulation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "radiant-barrier-insulation-step-3": {
+    "srcset": [
+      {
+        "file": "radiant-barrier-insulation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "radiant-barrier-insulation-step-4": {
+    "srcset": [
+      {
+        "file": "radiant-barrier-insulation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "duct-replacement-hero": {
+    "srcset": [
+      {
+        "file": "duct-replacement-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "duct-replacement-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "duct-replacement-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "duct-replacement-step-1": {
+    "srcset": [
+      {
+        "file": "duct-replacement-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "duct-replacement-step-2": {
+    "srcset": [
+      {
+        "file": "duct-replacement-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "duct-replacement-step-3": {
+    "srcset": [
+      {
+        "file": "duct-replacement-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "duct-replacement-step-4": {
+    "srcset": [
+      {
+        "file": "duct-replacement-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "soundproofing-insulation-hero": {
+    "srcset": [
+      {
+        "file": "soundproofing-insulation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "soundproofing-insulation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "soundproofing-insulation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "soundproofing-insulation-step-1": {
+    "srcset": [
+      {
+        "file": "soundproofing-insulation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "soundproofing-insulation-step-2": {
+    "srcset": [
+      {
+        "file": "soundproofing-insulation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "soundproofing-insulation-step-3": {
+    "srcset": [
+      {
+        "file": "soundproofing-insulation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "soundproofing-insulation-step-4": {
+    "srcset": [
+      {
+        "file": "soundproofing-insulation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-insulation-removal-hero": {
+    "srcset": [
+      {
+        "file": "attic-insulation-removal-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "attic-insulation-removal-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "attic-insulation-removal-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "attic-insulation-removal-step-1": {
+    "srcset": [
+      {
+        "file": "attic-insulation-removal-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-insulation-removal-step-2": {
+    "srcset": [
+      {
+        "file": "attic-insulation-removal-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-insulation-removal-step-3": {
+    "srcset": [
+      {
+        "file": "attic-insulation-removal-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-insulation-removal-step-4": {
+    "srcset": [
+      {
+        "file": "attic-insulation-removal-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "air-sealing-hero": {
+    "srcset": [
+      {
+        "file": "air-sealing-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "air-sealing-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "air-sealing-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "air-sealing-step-1": {
+    "srcset": [
+      {
+        "file": "air-sealing-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "air-sealing-step-2": {
+    "srcset": [
+      {
+        "file": "air-sealing-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "air-sealing-step-3": {
+    "srcset": [
+      {
+        "file": "air-sealing-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "air-sealing-step-4": {
+    "srcset": [
+      {
+        "file": "air-sealing-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-insulation-replacement-hero": {
+    "srcset": [
+      {
+        "file": "attic-insulation-replacement-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "attic-insulation-replacement-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "attic-insulation-replacement-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "attic-insulation-replacement-step-1": {
+    "srcset": [
+      {
+        "file": "attic-insulation-replacement-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-insulation-replacement-step-2": {
+    "srcset": [
+      {
+        "file": "attic-insulation-replacement-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-insulation-replacement-step-3": {
+    "srcset": [
+      {
+        "file": "attic-insulation-replacement-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-insulation-replacement-step-4": {
+    "srcset": [
+      {
+        "file": "attic-insulation-replacement-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-cleaning-hero": {
+    "srcset": [
+      {
+        "file": "attic-cleaning-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "attic-cleaning-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "attic-cleaning-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "attic-cleaning-step-1": {
+    "srcset": [
+      {
+        "file": "attic-cleaning-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-cleaning-step-2": {
+    "srcset": [
+      {
+        "file": "attic-cleaning-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-cleaning-step-3": {
+    "srcset": [
+      {
+        "file": "attic-cleaning-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "attic-cleaning-step-4": {
+    "srcset": [
+      {
+        "file": "attic-cleaning-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "vapor-barrier-installation-hero": {
+    "srcset": [
+      {
+        "file": "vapor-barrier-installation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "vapor-barrier-installation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "vapor-barrier-installation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "vapor-barrier-installation-step-1": {
+    "srcset": [
+      {
+        "file": "vapor-barrier-installation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "vapor-barrier-installation-step-2": {
+    "srcset": [
+      {
+        "file": "vapor-barrier-installation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "vapor-barrier-installation-step-3": {
+    "srcset": [
+      {
+        "file": "vapor-barrier-installation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "vapor-barrier-installation-step-4": {
+    "srcset": [
+      {
+        "file": "vapor-barrier-installation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "rodent-proofing-hero": {
+    "srcset": [
+      {
+        "file": "rodent-proofing-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "rodent-proofing-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "rodent-proofing-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 40
+  },
+  "rodent-proofing-step-1": {
+    "srcset": [
+      {
+        "file": "rodent-proofing-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "rodent-proofing-step-2": {
+    "srcset": [
+      {
+        "file": "rodent-proofing-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "rodent-proofing-step-3": {
+    "srcset": [
+      {
+        "file": "rodent-proofing-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "rodent-proofing-step-4": {
+    "srcset": [
+      {
+        "file": "rodent-proofing-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "rodent-exclusion-hero": {
+    "srcset": [
+      {
+        "file": "rodent-exclusion-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "rodent-exclusion-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "rodent-exclusion-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 56
+  },
+  "rodent-exclusion-step-1": {
+    "srcset": [
+      {
+        "file": "rodent-exclusion-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "rodent-exclusion-step-2": {
+    "srcset": [
+      {
+        "file": "rodent-exclusion-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "rodent-exclusion-step-3": {
+    "srcset": [
+      {
+        "file": "rodent-exclusion-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "rodent-exclusion-step-4": {
+    "srcset": [
+      {
+        "file": "rodent-exclusion-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "insulation-replacement-hero": {
+    "srcset": [
+      {
+        "file": "insulation-replacement-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "insulation-replacement-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "insulation-replacement-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "insulation-replacement-step-1": {
+    "srcset": [
+      {
+        "file": "insulation-replacement-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "insulation-replacement-step-2": {
+    "srcset": [
+      {
+        "file": "insulation-replacement-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "insulation-replacement-step-3": {
+    "srcset": [
+      {
+        "file": "insulation-replacement-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "insulation-replacement-step-4": {
+    "srcset": [
+      {
+        "file": "insulation-replacement-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "fiberglass-insulation-hero": {
+    "srcset": [
+      {
+        "file": "fiberglass-insulation-hero-480.webp",
+        "w": 480
+      },
+      {
+        "file": "fiberglass-insulation-hero-960.webp",
+        "w": 960
+      },
+      {
+        "file": "fiberglass-insulation-hero-1440.webp",
+        "w": 1440
+      }
+    ],
+    "w": 1448,
+    "h": 1086,
+    "q": 72
+  },
+  "fiberglass-insulation-step-1": {
+    "srcset": [
+      {
+        "file": "fiberglass-insulation-step-1.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "fiberglass-insulation-step-2": {
+    "srcset": [
+      {
+        "file": "fiberglass-insulation-step-2.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "fiberglass-insulation-step-3": {
+    "srcset": [
+      {
+        "file": "fiberglass-insulation-step-3.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  },
+  "fiberglass-insulation-step-4": {
+    "srcset": [
+      {
+        "file": "fiberglass-insulation-step-4.svg",
+        "w": 1600
+      }
+    ],
+    "w": 1600,
+    "h": 1200
+  }
+}

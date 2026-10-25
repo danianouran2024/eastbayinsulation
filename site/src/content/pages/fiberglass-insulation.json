@@ -1,0 +1,103 @@
+{
+  "h1": "Fiberglass Insulation in San Leandro, CA",
+  "description": "Fiberglass insulation in San Leandro, CA: batts and blown-in for attics and walls. Free inspection and a written estimate from East Bay Insulation.",
+  "intro": "Fiberglass still does most of the insulating in East Bay homes, and for good reason: it delivers solid R-value per dollar in attics, walls and floors. We install batts and blown-in fiberglass, sealed and measured properly.",
+  "hero_image": "fiberglass-insulation-hero",
+  "hero_alt": "Fiberglass batts installed between attic joists",
+  "sections": [
+    {
+      "h2": "Batts vs blown-in fiberglass",
+      "paragraphs": [
+        "Batts suit open bays between joists and studs, where they can be cut tight around obstacles. Blown-in loose fill suits attics and hard-to-reach cavities, where it settles into every gap and covers uneven areas in one pass.",
+        "We recommend one over the other based on the space, not on habit: open attics usually get blown-in, wall cavities get batts or dense-pack."
+      ],
+      "bullets": [
+        "Batts for open joist and stud bays",
+        "Blown-in for attics and irregular cavities",
+        "Depth markers so you can verify the R-value yourself"
+      ]
+    },
+    {
+      "h2": "Installed right, not just laid down",
+      "paragraphs": [
+        "Fiberglass performs when it is full-depth, dry and continuous. Gaps around pipes, wires and lights leak heat no matter how much material sits nearby.",
+        "Every fiberglass job includes the sealing work that makes the material count: top plates, penetrations, hatch weatherstripping and baffles at the soffits so airflow never gets blocked."
+      ]
+    },
+    {
+      "h2": "Where fiberglass fits in the East Bay",
+      "paragraphs": [
+        "In open, dry attics with good access, blown-in fiberglass is usually the best value per R-value dollar. In rim joists, crawl spaces and anywhere moisture moves, we steer toward closed-cell foam or encapsulation instead, and explain why on the estimate.",
+        "The marine layer and cool nights mean even a modest R-value jump changes how the house feels, as long as the sealing is done alongside it."
+      ]
+    },
+    {
+      "h2": "Cost drivers",
+      "paragraphs": [
+        "Area, target R-value and access set the price: a tall attic costs less to work in than a low one, and topping up costs less than removing failed material first.",
+        "We quote the R-value, the depth and the square footage on paper, so you can compare bids on the same numbers."
+      ],
+      "bullets": [
+        "Quoted by R-value and depth, not by truckload",
+        "Fixed written estimate after inspection",
+        "Remove-and-replace quoted separately when needed"
+      ]
+    },
+    {
+      "h2": "What to expect after install",
+      "paragraphs": [
+        "Blown-in fiberglass settles slightly, which is why we install to a depth above the target, not at it. At the follow-up we re-check the depth and top off any areas that settled below the line.",
+        "You get a receipt showing the material, the R-value and the installed depth for your records and any future work."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We measure the space and check the vents, sealing and existing material, then quote the right R-value for your house.",
+      "image": "fiberglass-insulation-step-1",
+      "image_alt": "Measuring an attic for fiberglass insulation"
+    },
+    {
+      "name": "Seal and prep",
+      "text": "Leaks are sealed and baffles go in at the soffits so airflow stays clear when the material lands.",
+      "image": "fiberglass-insulation-step-2",
+      "image_alt": "Installing soffit baffles before insulation"
+    },
+    {
+      "name": "Install",
+      "text": "Batts or blown-in fiberglass goes in to depth, with markers set at the target line.",
+      "image": "fiberglass-insulation-step-3",
+      "image_alt": "Blowing fiberglass into an attic"
+    },
+    {
+      "name": "Check and top off",
+      "text": "We verify the depth with you and re-check at the follow-up visit after any settling.",
+      "image": "fiberglass-insulation-step-4",
+      "image_alt": "Checking fiberglass depth markers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is fiberglass or cellulose better for my attic?",
+      "a": "Both work. Fiberglass holds its loft in damp air and costs less per R-value in most attics, while cellulose packs tighter and blocks air a little better. We quote the option that fits your attic and your budget."
+    },
+    {
+      "q": "What R-value do I need?",
+      "a": "Most East Bay attics land between R-38 and R-60. The inspection tells us what your house has now and what it needs, and the estimate states the number."
+    },
+    {
+      "q": "How long does a fiberglass install take?",
+      "a": "A standard attic is one day. Removal of old material or a large house can add a second day, stated in the estimate."
+    },
+    {
+      "q": "Does fiberglass settle over time?",
+      "a": "Blown-in fiberglass settles a little in the first months, so we install above the target depth and re-check at the follow-up visit."
+    },
+    {
+      "q": "Do you insulate walls with fiberglass?",
+      "a": "Open stud bays get batts; finished walls get dense-pack blown-in through small access points. Both are standard jobs for us."
+    }
+  ],
+  "related": ["blown-in-insulation", "cellulose-insulation", "attic-insulation"]
+}

@@ -1,0 +1,114 @@
+{
+  "h1": "Air Sealing in San Leandro, CA",
+  "description": "Air sealing in San Leandro, CA: close attic leaks, penetrations and bypasses with Title 24 compliance. Get a free inspection and a written estimate.",
+  "intro": "Air sealing closes the hidden gaps that let conditioned air out and outside air in: top plates, wire and pipe penetrations, recessed lights and attic bypasses. We find the leaks, seal them, and verify the work against California Title 24 requirements.",
+  "hero_image": "air-sealing-hero",
+  "hero_alt": "Sealing a top plate gap in an East Bay attic",
+  "sections": [
+    {
+      "h2": "Where the air actually leaks",
+      "paragraphs": [
+        "Most houses lose the most air through the attic: the top plates where walls meet the ceiling, holes drilled for wires and plumbing, recessed light housings, and the chases around chimneys and duct runs. These gaps sit hidden under insulation, which is why they go unnoticed for years.",
+        "A blower door test pressurizes the house and shows exactly where the air moves, so we seal measured leaks instead of guessing."
+      ],
+      "bullets": [
+        "Top plates along exterior walls",
+        "Wire, pipe and duct penetrations",
+        "Recessed light housings",
+        "Attic hatch and access doors",
+        "Chases and bypasses behind walls"
+      ]
+    },
+    {
+      "h2": "Title 24 and the blower door test",
+      "paragraphs": [
+        "California's Title 24 energy code sets specific air leakage limits for new and altered homes, and a blower door test is how compliance is measured. We run the test before sealing, seal what it finds, and test again so you have numbers on paper.",
+        "For homes that need it, we coordinate the required verification with the permit and inspection process."
+      ],
+      "bullets": [
+        "Blower door test before and after",
+        "Targets set to the Title 24 limit for your project",
+        "Test results documented for your records"
+      ]
+    },
+    {
+      "h2": "Seal first, insulate second",
+      "paragraphs": [
+        "Insulation slows heat transfer but does not stop moving air. A fiberglass batt with air blowing through it performs well below its label, which is why sealing always comes first on our insulation jobs.",
+        "Sealing first also means the new insulation stays clean and dry, and it is the step that makes the biggest difference to how the house feels."
+      ]
+    },
+    {
+      "h2": "What we seal on a typical East Bay home",
+      "paragraphs": [
+        "Most East Bay homes share the same leak points: a perimeter of top plates, a cluster of penetrations around the furnace and water heater, and a leaky attic hatch.",
+        "We seal with the right material for each spot: rigid board for large bypasses, expanding foam for gaps around pipes and wires, and weatherstripping for the hatch."
+      ],
+      "bullets": [
+        "Perimeter top plates and wall intersections",
+        "Flues, chases and duct runs",
+        "Hatch weatherstripping and an insulated cover"
+      ]
+    },
+    {
+      "h2": "How you know it worked",
+      "paragraphs": [
+        "The after-test tells the story: a lower blower door number, a quieter house, and fewer drafts near windows and baseboards.",
+        "We hand you the before and after test results with the estimate paperwork, so the improvement is documented rather than assumed."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We walk the attic and the house to map the leaks, then run a blower door test to measure the total.",
+      "image": "air-sealing-step-1",
+      "image_alt": "Running a blower door test in an East Bay home"
+    },
+    {
+      "name": "Seal",
+      "text": "Top plates, penetrations and bypasses are sealed with foam, board and caulk, spot by spot.",
+      "image": "air-sealing-step-2",
+      "image_alt": "Sealing an attic penetration with foam"
+    },
+    {
+      "name": "Retest",
+      "text": "The blower door runs again to measure the improvement against the Title 24 target.",
+      "image": "air-sealing-step-3",
+      "image_alt": "Rechecking air leakage after sealing"
+    },
+    {
+      "name": "Verify",
+      "text": "We walk you through what was sealed, hand over the test numbers, and close out any permit or inspection paperwork.",
+      "image": "air-sealing-step-4",
+      "image_alt": "Reviewing sealed attic work with the homeowner"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where do houses leak the most air?",
+      "a": "Through the attic: top plates, penetrations, recessed lights and bypasses. The blower door test ranks them for your house so we seal the worst leaks first."
+    },
+    {
+      "q": "Does air sealing meet Title 24?",
+      "a": "Yes. We seal to the leakage targets in California's Title 24 energy code and document the before and after blower door numbers. Where the project requires verification, we coordinate it with the permit."
+    },
+    {
+      "q": "Do I need air sealing before new insulation?",
+      "a": "Yes. Insulation cannot work as labeled with air moving through it, and sealing first keeps the new material clean. Every insulation estimate we write includes the sealing work it needs."
+    },
+    {
+      "q": "How long does air sealing take?",
+      "a": "A typical house takes one day. Larger homes or complex bypasses can run longer, and the estimate states the schedule up front."
+    },
+    {
+      "q": "Will sealing make the house too tight?",
+      "a": "No. We seal the leaks that waste energy, not the ventilation your home needs. Combustion appliance clearances are checked as part of the work."
+    },
+    {
+      "q": "Can you seal without adding insulation?",
+      "a": "Yes. Sealing stands on its own and delivers the quickest comfort improvement for many homes. Insulation can follow later, and we plan the two together."
+    }
+  ],
+  "related": ["attic-insulation", "blown-in-insulation", "spray-foam-insulation"]
+}

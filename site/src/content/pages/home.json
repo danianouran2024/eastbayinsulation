@@ -1,0 +1,66 @@
+{
+  "h1": "Insulation Contractor in San Leandro, CA",
+  "description": "Insulation contractor in San Leandro, CA: attic, crawl space, spray foam and rodent exclusion for East Bay homes. Get a free inspection and written estimate.",
+  "intro": "East Bay Insulation works from a base in San Leandro and serves homeowners across the East Bay. One crew inspects, installs and follows up on every job, from attic insulation to sealed crawl spaces.",
+  "hero_image": "home-hero",
+  "hero_alt": "Insulated attic in a San Leandro home",
+  "sections": [
+    {
+      "h2": "Insulation that fits East Bay homes",
+      "paragraphs": [
+        "Marine-layer damp, summer heat and older housing stock are the three things our jobs share. We plan each attic, crawl space and wall around what the house actually has, not around a generic product list.",
+        "Every job starts with a free inspection. We show you what is there, what it costs to fix, and what can wait."
+      ]
+    },
+    {
+      "h2": "The services homeowners call us for",
+      "paragraphs": [],
+      "bullets": [
+        "Attic insulation, removal and replacement to modern R-values",
+        "Spray foam for attics, rim joists and crawl spaces",
+        "Crawl space encapsulation and vapor barriers",
+        "Blown-in and dense-pack insulation for walls and garage ceilings",
+        "Air sealing to California Title 24 standards",
+        "Rodent proofing and exclusion before reinsulation"
+      ]
+    },
+    {
+      "h2": "How we work",
+      "paragraphs": [
+        "Inspect first, quote second. We write a fixed estimate before any work starts, and the same crew that inspects your house does the work. No subcontractors, no hand-offs."
+      ],
+      "bullets": [
+        "Free inspection with a written estimate",
+        "Code-compliant installs, Title 24 aware",
+        "Clean removal of old or damaged insulation",
+        "A follow-up visit to confirm the work held"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you serve my town?",
+      "a": "We work in San Leandro and within about 30 miles: Oakland, Hayward, Castro Valley, Alameda, Berkeley, Fremont, Union City, Newark, San Lorenzo, Albany, El Cerrito, Richmond, Piedmont, Emeryville, Livermore, Dublin, Pleasanton and Walnut Creek."
+    },
+    {
+      "q": "How much does insulation work cost?",
+      "a": "It depends on the size of the space, the material and whether old insulation needs to come out first. The free inspection is how we give you a real number. We write fixed estimates, so the price you approve is the price you pay."
+    },
+    {
+      "q": "How soon can you start?",
+      "a": "Most jobs start within one to two weeks of the inspection. Emergency rodent damage or failed-inspection situations get priority."
+    },
+    {
+      "q": "Do you handle the permits and inspection paperwork?",
+      "a": "Yes. Where a permit is required we pull it and schedule the city inspection. San Leandro requires insulation to pass inspection before it is covered up, and we build that into the timeline."
+    },
+    {
+      "q": "Is the estimate really free?",
+      "a": "Yes. The inspection and written estimate are free, and the estimate holds as a fixed price, not a starting point."
+    },
+    {
+      "q": "What areas of the house should I insulate first?",
+      "a": "The attic usually, then the crawl space, then walls if they are open. The inspection tells us where the house is losing the most heat and where moisture is getting in."
+    }
+  ]
+}

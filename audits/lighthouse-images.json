@@ -1,0 +1,180 @@
+{
+  "label": "images",
+  "date": "2026-10-24T20:51:56.529Z",
+  "noindex": true,
+  "runs": 1,
+  "min": 99,
+  "pages": [
+    {
+      "url": "/",
+      "type": "home",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": [
+        {
+          "id": "uses-responsive-images",
+          "title": "Properly size images",
+          "category": "performance",
+          "score": 0,
+          "weight": 0,
+          "savingsMs": 270
+        }
+      ]
+    },
+    {
+      "url": "/services/",
+      "type": "hub",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": []
+    },
+    {
+      "url": "/services/attic-insulation/",
+      "type": "service",
+      "runs": [
+        {
+          "performance": 99,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": [
+        {
+          "id": "uses-responsive-images",
+          "title": "Properly size images",
+          "category": "performance",
+          "score": 0,
+          "weight": 0,
+          "savingsMs": 300
+        }
+      ]
+    },
+    {
+      "url": "/areas-served/oakland-ca/",
+      "type": "area",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": []
+    },
+    {
+      "url": "/about/",
+      "type": "about",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": []
+    },
+    {
+      "url": "/contact/",
+      "type": "contact",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": []
+    },
+    {
+      "url": "/privacy-policy/",
+      "type": "legal",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": []
+    },
+    {
+      "url": "/blog/attic-insulation-cost-east-bay/",
+      "type": "blog",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": []
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,117 @@
+{
+  "h1": "Wall Insulation in San Leandro, CA",
+  "description": "Wall insulation in San Leandro, CA: dense-pack and blown-in insulation for existing walls, installed through small drilled access points. Get a free inspection.",
+  "intro": "We fill the empty wall cavities in existing East Bay homes with dense-packed insulation, working through small drilled access points so the finished walls look untouched. Free inspection, fixed written estimate.",
+  "hero_image": "wall-insulation-hero",
+  "hero_alt": "Dense-pack wall insulation blown into an existing wall cavity",
+  "sections": [
+    {
+      "h2": "Why existing walls lose heat",
+      "paragraphs": [
+        "Many East Bay homes built before modern energy rules have empty wall cavities. Air moves through those cavities from the crawl space to the attic, and heat follows it, which is why rooms feel drafty even with the furnace running."
+      ],
+      "bullets": [
+        "Empty wall cavities act like chimneys",
+        "Insulation slows heat loss and air movement",
+        "It also slows heat gain in summer"
+      ]
+    },
+    {
+      "h2": "How dense-pack insulation fills a wall",
+      "paragraphs": [
+        "Dense-pack insulation is blown into the cavity under pressure so it fills the space completely, corners included, and stays in place for the life of the wall. We use blown-in fiberglass or cellulose, both of which hold up well in closed wall cavities."
+      ],
+      "bullets": [
+        "Fills the cavity fully, no gaps at the top",
+        "Stays put instead of settling out of reach",
+        "Fiberglass or cellulose, quoted for your walls"
+      ]
+    },
+    {
+      "h2": "The drill-and-fill sequence",
+      "paragraphs": [
+        "Access is drilled through the exterior siding or the interior drywall, usually at the top of each stud bay. The material goes in through the hole, the cavity is checked for complete fill, and the access points are closed and finished."
+      ],
+      "bullets": [
+        "Small access holes per stud bay",
+        "Fill verified with pressure and volume checks",
+        "Access points patched and finished to match"
+      ]
+    },
+    {
+      "h2": "Which walls lose the most",
+      "paragraphs": [
+        "Exterior walls are the priority: west walls that catch afternoon sun and walls facing the prevailing wind. Interior walls matter too, mostly for sound control and for rooms over garages or crawl spaces."
+      ],
+      "bullets": [
+        "West and south walls catch the most sun",
+        "Walls over garages and crawl spaces run cold",
+        "Interior walls for noise between rooms"
+      ]
+    },
+    {
+      "h2": "Working around your home",
+      "paragraphs": [
+        "Wall work happens from outside or inside depending on your siding and layout, and we keep the workspace covered and clean. Most wall insulation jobs finish in one day, and we walk you through what was filled before we leave."
+      ],
+      "bullets": [
+        "Interior or exterior access where possible",
+        "Drop cloths and daily cleanup",
+        "Most homes done in one day"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We find the empty cavities, check the wall structure, and map the access points for the estimate.",
+      "image": "wall-insulation-step-1",
+      "image_alt": "Inspecting wall cavities before insulation work"
+    },
+    {
+      "name": "Drill access",
+      "text": "Small access holes are drilled at the top of each stud bay, inside or outside, sized to the material.",
+      "image": "wall-insulation-step-2",
+      "image_alt": "Drilling a small access point in a wall"
+    },
+    {
+      "name": "Dense-pack",
+      "text": "Insulation is blown in under pressure until the cavity is full, then each bay is checked.",
+      "image": "wall-insulation-step-3",
+      "image_alt": "Blowing dense-pack insulation into a wall"
+    },
+    {
+      "name": "Patch and verify",
+      "text": "Access points are closed and finished to match, and we confirm the fill with you before we leave.",
+      "image": "wall-insulation-step-4",
+      "image_alt": "Patching a wall access point after insulation"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does wall insulation cost in San Leandro?",
+      "a": "It follows how much wall area is empty and how many access points the job needs. The free inspection gives you a fixed written estimate for your walls, not a per-square-foot guess."
+    },
+    {
+      "q": "Will the walls look patched afterward?",
+      "a": "Access points are closed and finished to match the surrounding surface, inside or out, so the work disappears. We agree on the finish method before drilling starts."
+    },
+    {
+      "q": "Can you insulate walls without removing drywall?",
+      "a": "Usually yes. Dense-pack is blown in through small drilled access points, so the drywall stays in place on most jobs. Open stud bays from a remodel can also be filled directly."
+    },
+    {
+      "q": "Which insulation goes in my walls?",
+      "a": "We quote blown-in fiberglass and cellulose for wall cavities. Both dense-pack well, and we recommend the one that fits your walls and budget."
+    },
+    {
+      "q": "How long does the job take?",
+      "a": "A typical exterior wall set is done in one day. Whole-house wall insulation can run longer, and we state the timeline in the estimate."
+    },
+    {
+      "q": "Do you do interior walls for sound?",
+      "a": "Yes, we dense-pack interior walls and floor cavities to cut noise between rooms. It is the same process, run through interior access points."
+    }
+  ],
+  "related": ["attic-insulation", "soundproofing-insulation", "air-sealing"]
+}

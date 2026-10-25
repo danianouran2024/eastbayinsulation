@@ -1,0 +1,104 @@
+20 image(s) queued | model=gpt-image-2-text-to-image | 1K | 4:3 | concurrency=6
+ERR air-sealing-step-3: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-cleaning-step-1: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR air-sealing-step-1: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR air-sealing-step-2: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-cleaning-step-2: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR air-sealing-step-4: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-cleaning-step-3: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-insulation-removal-step-1: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-cleaning-step-4: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-insulation-removal-step-3: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-insulation-removal-step-2: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-insulation-removal-step-4: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-insulation-replacement-step-2: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-insulation-replacement-step-4: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-insulation-step-1: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-insulation-replacement-step-1: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-insulation-step-2: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-insulation-replacement-step-3: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-insulation-step-4: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+ERR attic-insulation-step-3: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+done 0 / failed 20
+[
+  {
+    "name": "air-sealing-step-3",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-cleaning-step-1",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "air-sealing-step-1",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "air-sealing-step-2",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-cleaning-step-2",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "air-sealing-step-4",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-cleaning-step-3",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-insulation-removal-step-1",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-cleaning-step-4",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-insulation-removal-step-3",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-insulation-removal-step-2",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-insulation-removal-step-4",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-insulation-replacement-step-2",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-insulation-replacement-step-4",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-insulation-step-1",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-insulation-replacement-step-1",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-insulation-step-2",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-insulation-replacement-step-3",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-insulation-step-4",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  },
+  {
+    "name": "attic-insulation-step-3",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  }
+]

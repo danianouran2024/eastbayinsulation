@@ -1,0 +1,108 @@
+{
+  "h1": "Rodent Proofing in San Leandro, CA",
+  "description": "Rodent proofing in San Leandro, CA: seal the entry points rats and mice use so they stay out for good. Get a free inspection and estimate.",
+  "intro": "Rodent proofing for East Bay homes: we find and seal the entry points rats and mice use, so they never get inside in the first place. Free inspection of the roof line, vents, penetrations and access points.",
+  "hero_image": "rodent-proofing-hero",
+  "hero_alt": "Sealing a roof gap against rodents in San Leandro",
+  "sections": [
+    {
+      "h2": "How rodents get into East Bay homes",
+      "paragraphs": [
+        "Rats and mice need an opening no wider than a dime in some cases. Roof gaps, vent openings, pipe penetrations and the junctions where roofs meet walls are all doors for them.",
+        "Proofing finds those openings before rodents do and closes them with materials they cannot chew through."
+      ],
+      "bullets": [
+        "Roof and eave gaps",
+        "Uncovered vents and pipe penetrations",
+        "Gaps where walls meet the roof",
+        "Garage and crawl space openings"
+      ]
+    },
+    {
+      "h2": "Sealing the entry points that matter",
+      "paragraphs": [
+        "We work from the outside in: every roof-to-wall junction, vent, penetration and gap gets checked, then sealed with metal flashing, hardware cloth or foam rated for the job."
+      ],
+      "bullets": [
+        "Metal flashing over wide roof gaps",
+        "Hardware cloth on vents and louvers",
+        "Sealant and foam on small penetrations",
+        "Access points checked on every side of the house"
+      ]
+    },
+    {
+      "h2": "Why prevention beats trapping",
+      "paragraphs": [
+        "Traps remove individual rodents but leave the door open for the next ones. Proofing closes the building so the problem ends instead of repeating.",
+        "Proofing is also what protects new insulation: fresh material in a rodent-accessible attic is just future nesting."
+      ]
+    },
+    {
+      "h2": "Proofing before insulation",
+      "paragraphs": [
+        "If you are planning attic insulation, proofing should happen first. We seal the openings, then the insulation goes in, so you are not paying to insulate a rodent highway.",
+        "The inspection looks at both jobs together and quotes them in the right order."
+      ]
+    },
+    {
+      "h2": "Keeping them out for good",
+      "paragraphs": [
+        "Proofing is a one-time fix on the structure, not an ongoing service. We seal the openings, document what was closed with photos, and point out the spots to watch seasonally.",
+        "If rodents have already been inside, we can add the cleanup and reinsulation scope so the attic is fully restored."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We walk the roof line, vents, penetrations and the garage to map every opening a rodent could use.",
+      "image": "rodent-proofing-step-1",
+      "image_alt": "Checking a roof line for rodent entry points"
+    },
+    {
+      "name": "Seal",
+      "text": "Gaps are closed with flashing, hardware cloth and sealant, working from the largest openings down.",
+      "image": "rodent-proofing-step-2",
+      "image_alt": "Sealing a roof gap with metal flashing"
+    },
+    {
+      "name": "Verify",
+      "text": "We re-check every sealed point and walk the house again to confirm nothing was missed.",
+      "image": "rodent-proofing-step-3",
+      "image_alt": "Rechecking sealed entry points"
+    },
+    {
+      "name": "Document",
+      "text": "Photos of every sealed point are handed over with notes on what to watch seasonally.",
+      "image": "rodent-proofing-step-4",
+      "image_alt": "Documented sealed openings on a finished proofing job"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do rodents get into the attic?",
+      "a": "Through roof gaps, vent openings, pipe penetrations and the junctions where walls meet the roof. Most openings are small enough to miss until someone looks for them."
+    },
+    {
+      "q": "Does proofing work if rodents are already inside?",
+      "a": "Proofing closes the building so no new ones enter. If rodents are already inside, we add exclusion and cleanup so the problem is fully resolved, not just walled in."
+    },
+    {
+      "q": "What materials do you use?",
+      "a": "Metal flashing and hardware cloth for the openings rodents chew through, plus sealants and foam for small penetrations. Nothing gets sealed with a material they can reopen."
+    },
+    {
+      "q": "How long does proofing take?",
+      "a": "A typical house takes a day. Homes with many openings or difficult roof access can run longer, and the estimate states the schedule."
+    },
+    {
+      "q": "Should I proof before insulating my attic?",
+      "a": "Yes. Sealing the entry points first is what keeps new insulation clean and dry. We quote both jobs together in the right order."
+    },
+    {
+      "q": "Will proofing affect my roof ventilation?",
+      "a": "No. Vents are screened, not blocked, so airflow continues while rodents stay out."
+    }
+  ],
+  "related": ["attic-insulation", "rodent-exclusion", "air-sealing"]
+}

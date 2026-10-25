@@ -1,0 +1,107 @@
+{
+  "h1": "Mineral Wool Insulation in San Leandro, CA",
+  "description": "Mineral wool insulation in San Leandro, CA: rockwool batts with fire resistance and sound control for walls and attics. Free inspection.",
+  "intro": "Rockwool batts for walls, attics and floors where fire resistance and sound control matter as much as the R-value. It does not burn, does not hold water, and it quiets a house down. Free inspection, fixed written estimate.",
+  "hero_image": "mineral-wool-insulation-hero",
+  "hero_alt": "Rockwool batts fitted into wall stud bays",
+  "sections": [
+    {
+      "h2": "What a mineral wool install includes",
+      "paragraphs": [
+        "Mineral wool, also called rockwool, is spun from molten rock into dense batts. We fit it into wall stud bays, attic floors and interior partitions, cutting around outlets, pipes and framing so every bay is filled edge to edge."
+      ],
+      "bullets": [
+        "Dense rockwool batts cut and fitted bay by bay",
+        "Interior wall fills for sound control",
+        "Attic and floor applications where fire rating matters",
+        "Friction fit, so batts stay put without sagging"
+      ]
+    },
+    {
+      "h2": "Fire resistance, by design",
+      "paragraphs": [
+        "Mineral wool is made from rock, so it does not burn and does not fuel a fire. It holds its shape in heat that would melt other insulations, and it is the material we reach for around flues, chimneys and furnace rooms.",
+        "For East Bay homes in the hills or close to neighbors, that margin is a real part of the decision."
+      ]
+    },
+    {
+      "h2": "Sound control between rooms",
+      "paragraphs": [
+        "Dense rockwool batts absorb sound, so they quiet a house from the inside: bedroom walls, home offices, laundry rooms and floors between units.",
+        "Fitted into interior stud bays, mineral wool noticeably cuts the noise that moves through open wall cavities, which is why it pairs so well with our soundproofing work."
+      ]
+    },
+    {
+      "h2": "Mineral wool vs fiberglass",
+      "paragraphs": [
+        "Mineral wool is denser than fiberglass, so it damps sound better and holds its shape in walls long term. It is also noncombustible and sheds water instead of soaking it. Fiberglass costs less per square foot and still delivers solid R-value where those extras are not needed.",
+        "We quote both where both fit, and reserve mineral wool for the jobs where fire, sound or moisture decide it."
+      ],
+      "bullets": [
+        "Mineral wool: noncombustible, denser, better acoustics",
+        "Fiberglass: lighter on cost, solid thermal performance",
+        "Water shedding vs water absorbing"
+      ]
+    },
+    {
+      "h2": "From estimate to finish",
+      "paragraphs": [
+        "Cost follows the square footage and the batt thickness, and interior sound walls are priced per partition. Most single-room installs take a day; whole-house wall work is scheduled in the estimate.",
+        "After the install, batts need nothing from you. They hold their shape, and we re-check the fit at the follow-up visit."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We measure the wall, attic or floor bays, check what is there now, and write the estimate with the batt thickness you need.",
+      "image": "mineral-wool-insulation-step-1",
+      "image_alt": "Measuring wall stud bays for rockwool batts"
+    },
+    {
+      "name": "Prep",
+      "text": "Old material comes out where it is in the way, the bays are cleaned, and the work area is covered.",
+      "image": "mineral-wool-insulation-step-2",
+      "image_alt": "Clearing a wall cavity before fitting mineral wool"
+    },
+    {
+      "name": "Fit",
+      "text": "Rockwool batts are cut and friction-fitted into each bay, tight around outlets, pipes and framing.",
+      "image": "mineral-wool-insulation-step-3",
+      "image_alt": "Fitting mineral wool batts into wall studs"
+    },
+    {
+      "name": "Verify",
+      "text": "We walk the finished bays with you, confirm the fit, and check the work at the follow-up visit.",
+      "image": "mineral-wool-insulation-step-4",
+      "image_alt": "Finished mineral wool batts in a wall"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does mineral wool insulation cost?",
+      "a": "It follows the square footage and batt thickness, and interior sound walls are priced per partition. The free inspection gives you one fixed written number for your walls."
+    },
+    {
+      "q": "Is mineral wool really fireproof?",
+      "a": "Mineral wool is made from rock and is noncombustible: it will not burn or fuel a fire. That is why it is used around chimneys, flues and furnace rooms."
+    },
+    {
+      "q": "Does mineral wool really quiet a room?",
+      "a": "Yes. Its density absorbs sound instead of letting it pass through open wall cavities, which is why it is a standard pick for bedrooms, offices and shared walls."
+    },
+    {
+      "q": "Is mineral wool itchy like fiberglass?",
+      "a": "Mineral wool fibers are denser and less irritating than fiberglass, and our crews install it with the same protective gear either way."
+    },
+    {
+      "q": "Does mineral wool absorb water?",
+      "a": "No, it sheds water and drains instead of soaking, so it keeps its R-value and shape even in damp East Bay conditions."
+    },
+    {
+      "q": "How long does the install take?",
+      "a": "A single room or partition is usually a one-day job. Whole-house wall work is scheduled in the written estimate."
+    }
+  ],
+  "related": ["soundproofing-insulation", "wall-insulation", "attic-insulation"]
+}

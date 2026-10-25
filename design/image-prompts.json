@@ -1,0 +1,470 @@
+{
+  "air-sealing-hero": {
+    "prompt": "Photorealistic close-up of foam and caulk sealing gaps around wires and top plates in a residential attic, precise detail, no people, no text",
+    "aspect": "4:3"
+  },
+  "attic-cleaning-hero": {
+    "prompt": "Photorealistic freshly cleaned empty attic space, hepa vacuum, sunbeam through the roof vent, no people, no text",
+    "aspect": "4:3"
+  },
+  "attic-insulation-removal-hero": {
+    "prompt": "Photorealistic empty attic after old insulation removal, clean bare joists and deck, vacuum hose, dust catching the light, no people, no text",
+    "aspect": "4:3"
+  },
+  "attic-insulation-replacement-hero": {
+    "prompt": "Photorealistic attic mid-replacement, one side bare joists, the other fresh white blown-in insulation, clear contrast, no people, no text",
+    "aspect": "4:3"
+  },
+  "attic-insulation-hero": {
+    "prompt": "Photorealistic wide shot of a clean residential attic with fresh white blown-in insulation at even depth, depth markers visible, wooden joists, warm daylight from a roof vent, no people, no text",
+    "aspect": "4:3"
+  },
+  "blown-in-insulation-hero": {
+    "prompt": "Photorealistic residential attic during a blown-in insulation install, loose-fill fiberglass covering joists up to depth markers, insulation hose visible, no people, no text",
+    "aspect": "4:3"
+  },
+  "cellulose-insulation-hero": {
+    "prompt": "Photorealistic attic filled with dense-packed grey recycled cellulose insulation, textured surface, wooden rafters, daylight, no people, no text",
+    "aspect": "4:3"
+  },
+  "closed-cell-spray-foam-hero": {
+    "prompt": "Photorealistic macro detail of rigid closed-cell spray foam on a roof deck between rafters, dense cured foam, beam of natural light, no people, no text",
+    "aspect": "4:3"
+  },
+  "crawl-space-encapsulation-hero": {
+    "prompt": "Photorealistic sealed residential crawl space, crisp white reinforced vapor barrier sealed up concrete foundation walls, clean floor, work light glow, no people, no text",
+    "aspect": "4:3"
+  },
+  "crawl-space-insulation-hero": {
+    "prompt": "Photorealistic residential crawl space with batts between floor joists above a clean vapor barrier, wooden joists, portable work light, no people, no text",
+    "aspect": "4:3"
+  },
+  "duct-replacement-hero": {
+    "prompt": "Photorealistic new flexible insulated HVAC ductwork neatly installed in a residential attic, sealed joints, no people, no text",
+    "aspect": "4:3"
+  },
+  "fiberglass-insulation-hero": {
+    "prompt": "Photorealistic fiberglass batts installed between attic joists, pale material cut tight around wiring, no people, no text",
+    "aspect": "4:3"
+  },
+  "garage-insulation-hero": {
+    "prompt": "Photorealistic residential garage interior with white insulation batts on the ceiling between open joists, covered car in the corner, daylight from the open door, no people, no text",
+    "aspect": "4:3"
+  },
+  "insulation-removal-hero": {
+    "prompt": "Photorealistic attic vacuuming old grey insulation through a large hose into a collection bag, dusty attic, exposed joists, no faces, no text",
+    "aspect": "4:3"
+  },
+  "insulation-replacement-hero": {
+    "prompt": "Photorealistic attic with new insulation being installed over a clean sealed deck, rolls and blown material, no people, no text",
+    "aspect": "4:3"
+  },
+  "mineral-wool-insulation-hero": {
+    "prompt": "Photorealistic mineral wool batts installed between wooden studs in a residential wall under construction, stone wool texture, no people, no text",
+    "aspect": "4:3"
+  },
+  "radiant-barrier-insulation-hero": {
+    "prompt": "Photorealistic shiny foil radiant barrier stapled under attic roof rafters, reflective surface catching light, no people, no text",
+    "aspect": "4:3"
+  },
+  "rodent-exclusion-hero": {
+    "prompt": "Photorealistic exterior foundation of a California home with sealed penetrations and mesh covers, neat professional work, no people, no text",
+    "aspect": "4:3"
+  },
+  "rodent-proofing-hero": {
+    "prompt": "Photorealistic close-up of steel mesh and sealant closing a gap under a house foundation vent, exterior, natural light, no people, no text",
+    "aspect": "4:3"
+  },
+  "soundproofing-insulation-hero": {
+    "prompt": "Photorealistic mineral wool sound insulation installed between ceiling joists in a room under renovation, no people, no text",
+    "aspect": "4:3"
+  },
+  "spray-foam-insulation-hero": {
+    "prompt": "Photorealistic close-up of fresh closed-cell spray foam applied along a rim joist in a residential basement, cured foam texture, work lights, no people, no text",
+    "aspect": "4:3"
+  },
+  "vapor-barrier-installation-hero": {
+    "prompt": "Photorealistic crawl space with heavy white vapor barrier laid on graded soil and taped up the foundation wall, clean seams, no people, no text",
+    "aspect": "4:3"
+  },
+  "wall-insulation-hero": {
+    "prompt": "Photorealistic drilled access holes being patched in an exterior stucco wall after dense-pack insulation, ladder and tools, no people, no text",
+    "aspect": "4:3"
+  },
+  "home-hero": {
+    "prompt": "Photorealistic exterior of a tidy single-story California ranch home in San Leandro, warm afternoon light, crisp roofline, neat landscaping, no people, no text",
+    "aspect": "4:3"
+  },
+  "home-band": {
+    "prompt": "Photorealistic wide dramatic shot of finished attic insulation work, white blown-in insulation with depth markers stretching across a large attic, wide format, no people, no text",
+    "aspect": "21:9"
+  },
+  "air-sealing-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We walk the attic and the house to map the leaks, then run a blower door test to measure the total. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "air-sealing-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Seal. Scene: Top plates, penetrations and bypasses are sealed with foam, board and caulk, spot by spot. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "air-sealing-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Retest. Scene: The blower door runs again to measure the improvement against the Title 24 target. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "air-sealing-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Verify. Scene: We walk you through what was sealed, hand over the test numbers, and close out any permit or inspection paperwork. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-cleaning-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We document what is in the attic with photos and give you a fixed written estimate for the cleaning scope. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-cleaning-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Removal. Scene: Debris, droppings and damaged material are vacuumed out and bagged for disposal. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-cleaning-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Sanitize. Scene: The deck and framing are treated and the space is left dry and clean. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-cleaning-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Ready. Scene: We confirm the attic is ready for insulation or storage and hand you the photos. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-insulation-removal-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We climb up, check the material for damp and contamination, and quote removal and reinsulation in writing. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-insulation-removal-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Setup. Scene: The hose is run from the truck to the attic and the floors along the path are covered. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-insulation-removal-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Vacuum. Scene: Old insulation, debris and droppings are pulled out through the hose and bagged at the truck. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-insulation-removal-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Sanitize and prep. Scene: The attic floor is treated, the space is checked clean, and it is ready for sealing and new insulation. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-insulation-replacement-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We measure the attic, document the condition of the old insulation, and give you a fixed written estimate for the full replacement. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-insulation-replacement-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Removal. Scene: The old material is vacuumed out completely, including the debris and droppings under it. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-insulation-replacement-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Seal and sanitize. Scene: Entry points are sealed, the deck is cleaned and sanitized, and the space is prepped for new insulation. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-insulation-replacement-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Reinsulate and verify. Scene: Fresh insulation goes in to the agreed R-value with depth markers, and we walk you through the finished attic. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-insulation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We measure the attic, read the moisture levels, and check the vents and the current insulation. You get a fixed written estimate the same day. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-insulation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Removal and sealing. Scene: Old or damaged insulation is vacuumed out. We air seal the leaks that let warm air into the attic, then prep the space. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-insulation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Install. Scene: Fresh blown-in insulation goes in to the agreed R-value, with depth markers so you can verify it yourself. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "attic-insulation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Verify. Scene: We walk you through the finished attic, confirm the depth, and schedule any city inspection the job needs. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "blown-in-insulation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We measure the attic or walls, check what insulation is there now, and give you a fixed written estimate the same day. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "blown-in-insulation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Prep. Scene: Air leaks are sealed, baffles go in at the eaves, and the hose path through the house is protected with drop cloths. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "blown-in-insulation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Blow. Scene: Loose fill goes in with the machine to the agreed R-value, with depth checks as the hose moves across the space. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "blown-in-insulation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Verify. Scene: We walk you through the finished job, show you the depth markers, and hand over photos of the final coverage. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "cellulose-insulation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We check the attic and the wall cavities, confirm what insulation is there now, and write the estimate for the R-values you need. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "cellulose-insulation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Prep. Scene: Access holes are drilled where needed, the hose path is protected, and the machine is staged near the work area. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "cellulose-insulation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Fill. Scene: Cellulose is blown or dense-packed to the target R-value and density, with checks as each cavity fills. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "cellulose-insulation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Finish. Scene: Access holes are patched and painted, the attic is walked with you, and depth markers confirm the coverage. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "closed-cell-spray-foam-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We locate the air and moisture leaks and measure each zone you want foamed, then quote the thickness and coverage per zone. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "closed-cell-spray-foam-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Prep. Scene: The work area is masked and tented, surfaces are cleared and dried, and the house is vacated during the spray. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "closed-cell-spray-foam-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Spray. Scene: Closed-cell foam goes on in passes to the agreed thickness, with checks between passes as it rises. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "closed-cell-spray-foam-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Cure and check. Scene: After the cure window we inspect every joint, confirm the seal, and tell you when the space is safe to re-enter. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "crawl-space-encapsulation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We measure the space, read the humidity and moisture levels, and check the vents, piers and rim joists. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "crawl-space-encapsulation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Prep. Scene: Debris is removed and the ground is graded so the barrier can be laid tight to the walls. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "crawl-space-encapsulation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Seal. Scene: The barrier is sealed up the walls and around piers, vents are closed, and the rim joist is sealed and insulated. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "crawl-space-encapsulation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Verify. Scene: We re-check humidity after the space settles and adjust the dehumidifier at the follow-up visit. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "crawl-space-insulation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We measure the space, read the moisture levels, and check the rim joists, vents and any insulation that is already there. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "crawl-space-insulation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Prep. Scene: Wet or damaged material comes out, the surfaces dry, and the vapor barrier goes down where the plan calls for it. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "crawl-space-insulation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Install. Scene: Batts go into the floor bays and foam seals the rim joist band, cut and fitted bay by bay. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "crawl-space-insulation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Verify. Scene: We re-check moisture and fit at the follow-up visit and confirm the floor above is holding its temperature. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "duct-replacement-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We trace the duct runs, find the leaks and damage, and measure the airflow at the registers. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "duct-replacement-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Plan the runs. Scene: New runs are sized to each room and the replacement scope is written into the estimate. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "duct-replacement-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Replace. Scene: Old duct comes out, and the new insulated runs go in with sealed, supported connections. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "duct-replacement-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Airflow check. Scene: We test the airflow at the registers and adjust so the rooms that were starved finally get their share. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "fiberglass-insulation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We measure the space and check the vents, sealing and existing material, then quote the right R-value for your house. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "fiberglass-insulation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Seal and prep. Scene: Leaks are sealed and baffles go in at the soffits so airflow stays clear when the material lands. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "fiberglass-insulation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Install. Scene: Batts or blown-in fiberglass goes in to depth, with markers set at the target line. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "fiberglass-insulation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Check and top off. Scene: We verify the depth with you and re-check at the follow-up visit after any settling. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "garage-insulation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We measure the ceiling and walls, check the shared wall and rim, and note how the garage is used and finished. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "garage-insulation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Prep. Scene: The bays are cleaned, air leaks at the rim and door framing are sealed, and stored items are moved or covered. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "garage-insulation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Install. Scene: Loose fill goes into the ceiling and batts or foam into the walls, to the R-values in your estimate. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "garage-insulation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Verify. Scene: We walk the finished garage with you, confirm coverage and depth, and leave it clean and usable. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "insulation-removal-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We assess the old material, check for damp or contamination, and quote the removal in writing. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "insulation-removal-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Setup. Scene: Drop cloths go down and the vacuum hose is run from the truck to the space being emptied. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "insulation-removal-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Vacuum. Scene: The old insulation is pulled out through the hose and bagged at the truck, never carried through the house. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "insulation-removal-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Clean and check. Scene: We clear the residue, inspect the exposed framing, and confirm the space is ready for new material. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "insulation-replacement-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We measure depth, check moisture and look for animal damage, then recommend remove or top up with a fixed written estimate. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "insulation-replacement-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Removal. Scene: The failed material is vacuumed out and bagged, and the space is cleaned down to the deck. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "insulation-replacement-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Seal and install. Scene: Leaks are sealed, then new insulation goes in to the agreed R-value. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "insulation-replacement-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Verify. Scene: We confirm the depth with you, handle the inspection paperwork, and follow up a few weeks later. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "mineral-wool-insulation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We measure the wall, attic or floor bays, check what is there now, and write the estimate with the batt thickness you need. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "mineral-wool-insulation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Prep. Scene: Old material comes out where it is in the way, the bays are cleaned, and the work area is covered. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "mineral-wool-insulation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Fit. Scene: Rockwool batts are cut and friction-fitted into each bay, tight around outlets, pipes and framing. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "mineral-wool-insulation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Verify. Scene: We walk the finished bays with you, confirm the fit, and check the work at the follow-up visit. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "radiant-barrier-insulation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We measure the roof deck, read the attic temperature, and check the vents and existing insulation. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "radiant-barrier-insulation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Prep. Scene: The attic is cleared around the work path and the rafters are checked for a clean fastening surface. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "radiant-barrier-insulation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Install. Scene: The foil goes up across the roof deck, reflective side toward the roof, with the air gap kept even. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "radiant-barrier-insulation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Verify. Scene: We check coverage, confirm vents are clear, and record the attic temperature for the before-and-after. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "rodent-exclusion-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspect. Scene: We map every penetration and the extent of the rodent damage, then quote the full exclusion and cleanup as one fixed estimate. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "rodent-exclusion-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Seal. Scene: Every penetration is closed with flashing, hardware cloth and sealant, starting with the largest openings. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "rodent-exclusion-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Clean. Scene: Contaminated insulation and droppings are vacuumed out, and the deck and framing are sanitized. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "rodent-exclusion-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Reinsulate. Scene: Fresh insulation goes in to the target R-value, and we document the sealed points and the finished attic. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "rodent-proofing-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We walk the roof line, vents, penetrations and the garage to map every opening a rodent could use. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "rodent-proofing-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Seal. Scene: Gaps are closed with flashing, hardware cloth and sealant, working from the largest openings down. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "rodent-proofing-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Verify. Scene: We re-check every sealed point and walk the house again to confirm nothing was missed. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "rodent-proofing-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Document. Scene: Photos of every sealed point are handed over with notes on what to watch seasonally. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "soundproofing-insulation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We walk the rooms, find which walls and floors carry the noise, and map the cavities to fill. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "soundproofing-insulation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Access. Scene: Small access points are opened in the cavities, through interior walls or from the floor above. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "soundproofing-insulation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Fill. Scene: Mineral wool or dense-pack insulation goes into the cavities until the sound path is closed. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "soundproofing-insulation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Finish and test. Scene: Access points are patched to match, and we check the room together so the difference is clear. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "spray-foam-insulation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We find the air leaks and measure the zones you want foamed, then quote both foam types where both make sense. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "spray-foam-insulation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Prep. Scene: The work area is sealed and vented, surfaces are cleared, and the house is kept empty during spraying. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "spray-foam-insulation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Spray. Scene: Foam goes on in passes to the agreed thickness, with depth checks between passes. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "spray-foam-insulation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Cure and check. Scene: We verify the seal after curing and confirm the re-entry time before you come back inside. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "vapor-barrier-installation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We read moisture levels, check drainage and piers, and quote the barrier scope for your crawl space. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "vapor-barrier-installation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Prep. Scene: Debris is cleared and the ground leveled so the barrier can be laid tight and flat. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "vapor-barrier-installation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Install. Scene: The barrier is rolled out, overlapped at seams, and sealed up walls and around piers. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "vapor-barrier-installation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Verify. Scene: We re-check the coverage, confirm the seals, and record the post-install moisture reading. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "wall-insulation-step-1": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Inspection. Scene: We find the empty cavities, check the wall structure, and map the access points for the estimate. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "wall-insulation-step-2": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Drill access. Scene: Small access holes are drilled at the top of each stud bay, inside or outside, sized to the material. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "wall-insulation-step-3": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Dense-pack. Scene: Insulation is blown in under pressure until the cavity is full, then each bay is checked. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  },
+  "wall-insulation-step-4": {
+    "prompt": "Photorealistic documentary job-site photo for an insulation job, step: Patch and verify. Scene: Access points are closed and finished to match, and we confirm the fill with you before we leave. Bay Area California home interior, natural light, realistic detail, no faces visible, no text, no logos",
+    "aspect": "4:3"
+  }
+}

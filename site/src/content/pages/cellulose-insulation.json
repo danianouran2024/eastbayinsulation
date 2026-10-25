@@ -1,0 +1,108 @@
+{
+  "h1": "Cellulose Insulation in San Leandro, CA",
+  "description": "Cellulose insulation in San Leandro, CA: dense-packed recycled fiber for attics and existing walls, fire retardant. Free inspection.",
+  "intro": "Dense-packed recycled cellulose for attics and the empty walls of older East Bay homes, with a built-in fire retardant and a snug fit that fiberglass batts cannot match in a retrofit. Free inspection, fixed written estimate.",
+  "hero_image": "cellulose-insulation-hero",
+  "hero_alt": "Dense-packed cellulose insulation filling a wall cavity",
+  "sections": [
+    {
+      "h2": "What a cellulose install includes",
+      "paragraphs": [
+        "Cellulose starts as recycled paper fiber, treated with a borate fire retardant, and it goes in two ways: loose-blown across attic floors, or dense-packed under pressure into closed wall and floor cavities."
+      ],
+      "bullets": [
+        "Loose-blown attic coverage to the R-value on your estimate",
+        "Dense-packed walls through small access holes",
+        "Borate fire retardant in the material itself",
+        "Coverage and density checks as we work",
+        "Patched and painted access holes when done"
+      ]
+    },
+    {
+      "h2": "Dense-packing older East Bay walls",
+      "paragraphs": [
+        "A lot of East Bay housing was built before wall insulation was standard, so the stud cavities sit empty and the walls bleed heat. Opening them up is a remodel; dense-packing is not.",
+        "We drill small holes, blow cellulose under pressure until each cavity is full, then patch and paint the holes. From the street you cannot tell the job happened; from the thermostat you can."
+      ]
+    },
+    {
+      "h2": "Cellulose vs fiberglass",
+      "paragraphs": [
+        "Cellulose packs tighter than fiberglass, which blocks more airflow through the material itself, and it fills odd cavities with fewer gaps. Fiberglass holds its loft and dries quickly if it ever gets wet.",
+        "Both perform when installed right. For retrofit walls we lean cellulose, and for open attics we quote both so the numbers decide."
+      ],
+      "bullets": [
+        "Cellulose: tighter pack, recycled content, fire retardant",
+        "Fiberglass: stable loft, fast drying",
+        "Both quoted on attic work"
+      ]
+    },
+    {
+      "h2": "What shapes the price",
+      "paragraphs": [
+        "The square footage and the target R-value drive attic work; wall retrofits follow the number of wall sections and how many access holes each needs. Access matters too, since dense-packing works from outside or inside depending on the house.",
+        "If old, damaged material has to come out first, that line item is in the estimate from the start."
+      ]
+    },
+    {
+      "h2": "Install day and settling",
+      "paragraphs": [
+        "An attic blow takes a day; a wall retrofit usually one to two, most of it outside at the walls. After the job, a small amount of settling is normal, and attic coverage is checked on the follow-up visit.",
+        "Dense-packed walls are installed at a density that does not settle, which is the whole point of packing them under pressure."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We check the attic and the wall cavities, confirm what insulation is there now, and write the estimate for the R-values you need.",
+      "image": "cellulose-insulation-step-1",
+      "image_alt": "Checking a wall cavity before dense-packing cellulose"
+    },
+    {
+      "name": "Prep",
+      "text": "Access holes are drilled where needed, the hose path is protected, and the machine is staged near the work area.",
+      "image": "cellulose-insulation-step-2",
+      "image_alt": "Preparing an exterior wall for dense-pack insulation"
+    },
+    {
+      "name": "Fill",
+      "text": "Cellulose is blown or dense-packed to the target R-value and density, with checks as each cavity fills.",
+      "image": "cellulose-insulation-step-3",
+      "image_alt": "Dense-packing cellulose into a wall cavity"
+    },
+    {
+      "name": "Finish",
+      "text": "Access holes are patched and painted, the attic is walked with you, and depth markers confirm the coverage.",
+      "image": "cellulose-insulation-step-4",
+      "image_alt": "Patching a wall access hole after insulation work"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does cellulose insulation cost?",
+      "a": "It follows the square footage and R-value for attics, and the number of wall sections for retrofits. The free inspection turns those into one fixed written estimate for your house."
+    },
+    {
+      "q": "Is cellulose insulation safe?",
+      "a": "The material is treated with a borate fire retardant and is one of the most fire-resistant insulation options available. It is installed with the same safety gear and cleanup as our other jobs."
+    },
+    {
+      "q": "Can cellulose go into existing walls?",
+      "a": "Yes. Dense-packing is the standard way to insulate the empty walls of older East Bay homes, done through small holes that we patch and paint afterward."
+    },
+    {
+      "q": "Does cellulose settle over time?",
+      "a": "Loose-blown attic cellulose settles slightly in the first weeks, which is why we install above the target depth. Dense-packed walls are installed under pressure at a density that does not settle."
+    },
+    {
+      "q": "Does cellulose attract mold or rodents?",
+      "a": "Cellulose is treated with borates that resist both mold and pests, and a properly sealed house keeps rodents out regardless of the insulation type."
+    },
+    {
+      "q": "Cellulose or fiberglass, which is better?",
+      "a": "For retrofit walls, cellulose usually wins on fit. For open attics, both perform well and we quote both so you can decide with real numbers."
+    }
+  ],
+  "related": ["blown-in-insulation", "attic-insulation", "wall-insulation"]
+}

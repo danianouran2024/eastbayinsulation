@@ -1,0 +1,105 @@
+{
+  "h1": "Spray Foam Insulation in San Leandro, CA",
+  "description": "Spray foam insulation in San Leandro, CA: closed-cell and open-cell for attics, walls and rim joists. Free inspection and a written estimate.",
+  "intro": "Closed-cell and open-cell spray foam for attics, rim joists, walls and crawl spaces. We spray where it counts and explain plainly when another material is the better buy.",
+  "hero_image": "spray-foam-insulation-hero",
+  "hero_alt": "Spray foam applied in an East Bay attic",
+  "sections": [
+    {
+      "h2": "Closed-cell vs open-cell, explained plainly",
+      "paragraphs": [
+        "Closed-cell foam is dense, structural and moisture-resistant. It is the right pick for rim joists, roofs and anywhere water or vapor is a concern. Open-cell foam is lighter and cheaper per inch, with good sound control, and works well for interior walls and large attic cavities.",
+        "We quote both where both make sense, with the R-value and the cost per square foot on paper, so you decide with real numbers."
+      ],
+      "bullets": [
+        "Closed-cell: high R-value per inch, stops air and water",
+        "Open-cell: lower cost, strong sound dampening",
+        "Rim joists sealed as part of every crawl space package"
+      ]
+    },
+    {
+      "h2": "Where spray foam earns its cost",
+      "paragraphs": [
+        "Foam is not the answer for every square foot of a house. It earns its keep in three places: the rim joist band, where cold air pours in from outside; sloped roofs and bonus rooms, where space is too tight for thick batts; and stubborn air leaks that fiberglass alone never stops.",
+        "In open attics with full access, blown-in fiberglass or cellulose usually delivers more R-value per dollar, and we will tell you that up front."
+      ]
+    },
+    {
+      "h2": "Health and safety on foam jobs",
+      "paragraphs": [
+        "We spray only in sealed, ventilated work areas and keep the house empty during application and cure time. Occupants stay out until the foam has finished off-gassing, typically 24 hours, and we state the re-entry time on every estimate.",
+        "If foam is not right for your household, we say so and quote an alternative. No pressure, no upselling into a material you do not need."
+      ]
+    },
+    {
+      "h2": "Cost drivers for foam work",
+      "paragraphs": [
+        "Foam cost follows three things: area, thickness and foam type. Rim joist sealing is often a one-day job with a clear price. Roof deck spraying is a larger, pricier project, and we break the quote down by zone so you can phase the work if you want."
+      ],
+      "bullets": [
+        "Price per board foot, quoted up front",
+        "Zone-by-zone breakdown so work can be phased",
+        "Fixed estimate, no per-day billing"
+      ]
+    },
+    {
+      "h2": "What to expect during and after",
+      "paragraphs": [
+        "Crews mask and tent the work area, run a fresh-air machine during spraying, and clean overspray the same day. After the cure window we inspect the finished foam, check the seal at every joint we sprayed, and hand you the product data sheets for your records."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We find the air leaks and measure the zones you want foamed, then quote both foam types where both make sense.",
+      "image": "spray-foam-insulation-step-1",
+      "image_alt": "Measuring a rim joist before foam work"
+    },
+    {
+      "name": "Prep",
+      "text": "The work area is sealed and vented, surfaces are cleared, and the house is kept empty during spraying.",
+      "image": "spray-foam-insulation-step-2",
+      "image_alt": "Masking and tenting a spray area"
+    },
+    {
+      "name": "Spray",
+      "text": "Foam goes on in passes to the agreed thickness, with depth checks between passes.",
+      "image": "spray-foam-insulation-step-3",
+      "image_alt": "Spraying foam on a rim joist"
+    },
+    {
+      "name": "Cure and check",
+      "text": "We verify the seal after curing and confirm the re-entry time before you come back inside.",
+      "image": "spray-foam-insulation-step-4",
+      "image_alt": "Checking cured foam seals"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does spray foam insulation cost?",
+      "a": "Foam is quoted per board foot, and the total depends on area, thickness and foam type. Rim joists are a smaller job; a full roof deck is a larger one. Your inspection turns the ranges into a fixed written number."
+    },
+    {
+      "q": "Is spray foam worth the higher price?",
+      "a": "In rim joists, sloped roofs and hard-to-seal leaks, usually yes: it stops air and moisture in one pass. In open attics, blown-in fiberglass or cellulose often gives more R-value per dollar, and we quote that option too."
+    },
+    {
+      "q": "How long do we have to stay out of the house?",
+      "a": "Typically 24 hours while the foam cures and off-gasses. We state the exact re-entry time in your estimate and confirm it before you return."
+    },
+    {
+      "q": "Can foam be sprayed over old insulation?",
+      "a": "Generally no. The surface needs to be clean and dry, so old material comes out first where foam is going in."
+    },
+    {
+      "q": "Which is better, closed-cell or open-cell?",
+      "a": "Closed-cell for moisture, structure and maximum R per inch. Open-cell for sound control and lower cost per inch on interior work. Most houses use both in different places."
+    },
+    {
+      "q": "Does spray foam need a permit in San Leandro?",
+      "a": "Where insulation falls under the city's inspection rules, we pull the permit and schedule the inspection, same as our other insulation work."
+    }
+  ],
+  "related": ["attic-insulation", "crawl-space-encapsulation", "closed-cell-spray-foam"]
+}

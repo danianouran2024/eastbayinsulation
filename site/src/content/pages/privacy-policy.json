@@ -1,0 +1,42 @@
+{
+  "h1": "Privacy Policy",
+  "description": "Plain-language privacy policy for East Bay Insulation: what the estimate form collects, how we use it, and how to ask us to delete your information.",
+  "intro": "This policy explains, in plain language, what information we collect through our estimate form, how we use it, and how you can ask us to remove it. We keep it simple because we do not do anything complicated with your data.",
+  "sections": [
+    {
+      "h2": "What we collect",
+      "paragraphs": [
+        "When you submit the estimate form, we receive the details you enter. That is all we collect through this site."
+      ],
+      "bullets": [
+        "Your name",
+        "Phone number",
+        "Email address, if you provide one",
+        "Your town",
+        "Details about the project"
+      ]
+    },
+    {
+      "h2": "How we use it",
+      "paragraphs": [
+        "We use your information to respond to your request: to call you back, schedule the inspection and prepare your estimate. That is the only use."
+      ],
+      "bullets": [
+        "Responding to your estimate request",
+        "Scheduling your free inspection",
+        "We never sell or share your information"
+      ]
+    },
+    {
+      "h2": "Your rights",
+      "paragraphs": [
+        "You can ask us to delete your information at any time. Contact us through the estimate form and tell us what to remove, and we will take care of it."
+      ],
+      "bullets": [
+        "Request deletion of your details",
+        "Ask what we hold about you",
+        "Opt out of any follow-up contact"
+      ]
+    }
+  ]
+}

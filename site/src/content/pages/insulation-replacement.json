@@ -1,0 +1,104 @@
+{
+  "h1": "Insulation Replacement in San Leandro, CA",
+  "description": "Insulation replacement in San Leandro, CA: worn, damp or rodent-damaged insulation removed and replaced. Free inspection and a written estimate.",
+  "intro": "When insulation is compressed, damp, or chewed through, adding more on top hides the problem instead of fixing it. We remove what is failing and replace it with the right material for the space.",
+  "hero_image": "insulation-replacement-hero",
+  "hero_alt": "Old attic insulation being replaced in an East Bay home",
+  "sections": [
+    {
+      "h2": "Signs the insulation needs replacing, not topping up",
+      "paragraphs": [
+        "A quick look tells us which situation you have. Topping up is fine when the existing material is dry and still holding its loft. Replacement is the fix when it has failed."
+      ],
+      "bullets": [
+        "Compressed or matted material that lost its R-value",
+        "Damp insulation from roof leaks or crawl space moisture",
+        "Rodent nesting, droppings or chewed-through batts",
+        "Dust and odors coming through the ceilings",
+        "Rooms that never hold temperature despite the thermostat"
+      ]
+    },
+    {
+      "h2": "How we decide remove vs top up",
+      "paragraphs": [
+        "The inspection measures depth, checks moisture, and looks for animal activity. Dry, healthy insulation can usually be topped up to the target R-value for less money. Failed insulation comes out, the space is cleaned, and new material goes in.",
+        "We show you what we found before any work starts, so the recommendation is based on what is actually in your attic or crawl space."
+      ]
+    },
+    {
+      "h2": "What replacement includes",
+      "paragraphs": [
+        "A full replacement is removal, cleanup, air sealing and new material, done in one visit where the size allows."
+      ],
+      "bullets": [
+        "Vacuum removal of the old material",
+        "Sanitizing after rodents or moisture",
+        "Air sealing of leaks and bypasses",
+        "New insulation to the R-value we agreed",
+        "Disposal of the old material"
+      ]
+    },
+    {
+      "h2": "Cost drivers",
+      "paragraphs": [
+        "Space size, what the old material is, and how contaminated it is set the price. A simple attic replacement costs less than a crawl space job with rodent cleanup, and both cost less than a whole-house wall replacement.",
+        "We break the estimate into removal, cleanup and install so you see what each part costs, and you can phase the work if you want."
+      ]
+    },
+    {
+      "h2": "After the replacement",
+      "paragraphs": [
+        "We walk the finished space with you, confirm the depth and R-value, and follow up after a few weeks to check that temperatures settled as expected. If moisture was the original problem, the follow-up includes a re-reading of the space."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We measure depth, check moisture and look for animal damage, then recommend remove or top up with a fixed written estimate.",
+      "image": "insulation-replacement-step-1",
+      "image_alt": "Checking old insulation during an inspection"
+    },
+    {
+      "name": "Removal",
+      "text": "The failed material is vacuumed out and bagged, and the space is cleaned down to the deck.",
+      "image": "insulation-replacement-step-2",
+      "image_alt": "Vacuuming out old insulation"
+    },
+    {
+      "name": "Seal and install",
+      "text": "Leaks are sealed, then new insulation goes in to the agreed R-value.",
+      "image": "insulation-replacement-step-3",
+      "image_alt": "Installing fresh insulation"
+    },
+    {
+      "name": "Verify",
+      "text": "We confirm the depth with you, handle the inspection paperwork, and follow up a few weeks later.",
+      "image": "insulation-replacement-step-4",
+      "image_alt": "Verifying finished insulation depth"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I know if my insulation needs replacing?",
+      "a": "Compressed material, damp spots, rodent droppings, or rooms that never hold temperature are the usual signs. The free inspection measures it and tells you whether a top-up or a replacement is the right call."
+    },
+    {
+      "q": "Is replacement much more expensive than adding insulation?",
+      "a": "It costs more because removal and disposal are extra steps, but doing it wrong costs twice: new material over failed insulation does not perform. We quote remove and top-up separately so you can compare."
+    },
+    {
+      "q": "How long does a replacement take?",
+      "a": "A typical attic replacement is one day. Crawl spaces and jobs with rodent cleanup run one to two days, and we say so in the estimate."
+    },
+    {
+      "q": "What happens to the old insulation?",
+      "a": "We bag it, remove it from the property and dispose of it. Contaminated material is handled as waste, not left at the curb."
+    },
+    {
+      "q": "Can you replace insulation after a leak or flood?",
+      "a": "Yes. Damp insulation loses its performance and can grow mold, so it comes out, the space dries, and new material goes in once moisture readings are back to normal."
+    }
+  ],
+  "related": ["attic-insulation-removal", "insulation-removal", "attic-insulation-replacement"]
+}

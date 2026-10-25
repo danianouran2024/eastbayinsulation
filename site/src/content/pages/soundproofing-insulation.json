@@ -1,0 +1,113 @@
+{
+  "h1": "Soundproofing Insulation in San Leandro, CA",
+  "description": "Soundproofing insulation in San Leandro, CA: mineral wool and dense insulation between rooms and floors to cut noise transfer. Get a free inspection.",
+  "intro": "We cut noise between rooms and floors with mineral wool and dense insulation in the wall and floor cavities, so the home feels quieter without a remodel. Free inspection, fixed written estimate.",
+  "hero_image": "soundproofing-insulation-hero",
+  "hero_alt": "Mineral wool soundproofing batts in an open wall",
+  "sections": [
+    {
+      "h2": "Where noise actually gets through",
+      "paragraphs": [
+        "Sound travels through the empty cavities inside walls and floors, not just through the surfaces you can see. An unfilled interior wall acts like a drum, carrying voices, footsteps and plumbing noise from one room into the next."
+      ],
+      "bullets": [
+        "Empty cavities carry sound",
+        "Interior walls, not only exterior ones",
+        "Floor cavities carry footsteps between levels"
+      ]
+    },
+    {
+      "h2": "Materials that stop sound",
+      "paragraphs": [
+        "Dense materials block and absorb sound far better than light fluffy ones, which is why we use mineral wool and dense-pack insulation for sound control. The added mass in the cavity is what breaks the drum effect."
+      ],
+      "bullets": [
+        "Mineral wool batts in open stud bays",
+        "Dense-pack fill in closed cavities",
+        "Added mass where noise is worst"
+      ]
+    },
+    {
+      "h2": "Walls, floors and shared rooms",
+      "paragraphs": [
+        "Bedrooms sharing a wall, home offices near living areas, and rooms under bathrooms are the usual problem spots. We treat the cavity itself, which works with or without new drywall, and we point out where drywall changes would add more."
+      ],
+      "bullets": [
+        "Shared bedroom walls",
+        "Home office and media rooms",
+        "Floors under bathrooms and laundry"
+      ]
+    },
+    {
+      "h2": "Common problem spots in East Bay homes",
+      "paragraphs": [
+        "Older East Bay homes often have no insulation in the interior walls at all, and newer builds use hollow interior stud bays to save on material. Either way the fix is the same: fill the cavity with something dense, and the room quiets down."
+      ],
+      "bullets": [
+        "Hollow interior walls in older homes",
+        "Empty stud bays in newer builds",
+        "The cavity fill is the fix in both cases"
+      ]
+    },
+    {
+      "h2": "From inspection to quiet",
+      "paragraphs": [
+        "We start by finding which cavities are carrying the noise, then quote the fill for those spaces. Access points are small and finished to match, and most soundproofing jobs are done in one day."
+      ],
+      "bullets": [
+        "Noise paths mapped before quoting",
+        "Small access points, finished clean",
+        "Most jobs done in one day"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We walk the rooms, find which walls and floors carry the noise, and map the cavities to fill.",
+      "image": "soundproofing-insulation-step-1",
+      "image_alt": "Checking a shared wall for noise transfer"
+    },
+    {
+      "name": "Access",
+      "text": "Small access points are opened in the cavities, through interior walls or from the floor above.",
+      "image": "soundproofing-insulation-step-2",
+      "image_alt": "Opening a small access point in an interior wall"
+    },
+    {
+      "name": "Fill",
+      "text": "Mineral wool or dense-pack insulation goes into the cavities until the sound path is closed.",
+      "image": "soundproofing-insulation-step-3",
+      "image_alt": "Filling a wall cavity with mineral wool"
+    },
+    {
+      "name": "Finish and test",
+      "text": "Access points are patched to match, and we check the room together so the difference is clear.",
+      "image": "soundproofing-insulation-step-4",
+      "image_alt": "Patching a finished soundproofed wall"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does insulation actually reduce noise?",
+      "a": "It is most of the fix. Dense insulation in the wall and floor cavities breaks the path sound takes between rooms, and it works without changing the drywall. The denser the fill, the better the result."
+    },
+    {
+      "q": "Which insulation works best for soundproofing?",
+      "a": "Mineral wool for open stud bays and dense-pack fiberglass or cellulose for closed cavities. Dense materials stop more sound than light, fluffy ones, and we quote the right fill per space."
+    },
+    {
+      "q": "Can you soundproof between floors?",
+      "a": "Yes. We fill the floor cavities under bedrooms and bathrooms, which is where most between-level noise travels. Access is usually from below or through small openings."
+    },
+    {
+      "q": "Will I need to redo the drywall?",
+      "a": "Usually not. Closed cavities are filled through small access points that get patched to match, and open stud bays from a remodel can be filled before the new drywall goes up."
+    },
+    {
+      "q": "How long does soundproofing take?",
+      "a": "A few rooms are typically done in one day. The estimate states the scope and timeline after we map the noise paths."
+    }
+  ],
+  "related": ["wall-insulation", "mineral-wool-insulation", "spray-foam-insulation"]
+}

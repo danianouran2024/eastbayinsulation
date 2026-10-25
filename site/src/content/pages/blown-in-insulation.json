@@ -1,0 +1,113 @@
+{
+  "h1": "Blown In Insulation in San Leandro, CA",
+  "description": "Blown in insulation for East Bay attics, walls and garage ceilings, machine-blown to verified R-values. Free inspection and a written estimate.",
+  "intro": "We blow loose-fill fiberglass and cellulose into attics, closed walls and garage ceilings, then leave depth markers in place so the installed R-value is visible, not promised. Free inspection, fixed written estimate.",
+  "hero_image": "blown-in-insulation-hero",
+  "hero_alt": "Crew machine-blowing loose-fill insulation into an East Bay attic",
+  "sections": [
+    {
+      "h2": "What a blown-in install includes",
+      "paragraphs": [
+        "A blown-in job starts with measuring the cavities we are filling: the attic floor, closed wall bays or a garage ceiling. The machine does the even part; the craft is in the prep, the baffles and the depth checks."
+      ],
+      "bullets": [
+        "Machine-blown fiberglass or cellulose, at the R-value your estimate states",
+        "Depth markers left in the attic so you can see the installed depth",
+        "Soffit baffles so insulation never blocks attic airflow",
+        "Air sealing of top plates and penetrations before we blow",
+        "Cleanup of the work area and the driveway"
+      ]
+    },
+    {
+      "h2": "Where blown-in insulation belongs",
+      "paragraphs": [
+        "Loose fill shines where space is open and irregular: flat attics, joist bays, odd corners that batts would leave gapped. It also reaches places batts cannot, like the closed walls of older East Bay homes that were built with empty cavities.",
+        "In the coastal East Bay the marine layer keeps attics damp, so loose fill goes in only after the vents are confirmed clear and the baffles are in place."
+      ],
+      "bullets": [
+        "Attics with joists, ducts and framing in the way",
+        "Existing walls, dense-packed through small holes",
+        "Garage ceilings under finished rooms"
+      ]
+    },
+    {
+      "h2": "Blown-in vs batts",
+      "paragraphs": [
+        "Batts are cut-to-fit blankets that work well in open stud bays with nothing in the way. Loose fill fills around pipes, wires and odd framing without gaps, and it is faster to install over large attic floors.",
+        "For most East Bay attics we recommend blown-in fiberglass or cellulose, and for wall retrofits it is usually the only practical option. We quote the material that fits your house, not one size for everyone."
+      ],
+      "bullets": [
+        "Loose fill: no seams, fills irregular cavities",
+        "Batts: tidy in open bays, more cutting around obstructions",
+        "Both get quoted; the inspection decides"
+      ]
+    },
+    {
+      "h2": "What moves the price",
+      "paragraphs": [
+        "Square footage comes first, then depth: a higher R-value means more material and more time. Access matters too. An attic with a pull-down ladder and standing room runs faster than a low roof with a crawl hatch.",
+        "If the old insulation has to come out first, that is a separate line in the estimate, never a surprise added mid-job."
+      ]
+    },
+    {
+      "h2": "A typical install day",
+      "paragraphs": [
+        "The truck parks close to the attic access or wall opening and the hose runs in through a drop-clothed path. One person feeds the machine, one works the hose, and the depth is checked as we go. Most attics finish in a day.",
+        "We walk the finished attic with you and point out the depth markers. If the material settles a touch in the first weeks, the markers make it easy to see, and we check coverage at the follow-up visit."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We measure the attic or walls, check what insulation is there now, and give you a fixed written estimate the same day.",
+      "image": "blown-in-insulation-step-1",
+      "image_alt": "Measuring an attic before a blown-in insulation job"
+    },
+    {
+      "name": "Prep",
+      "text": "Air leaks are sealed, baffles go in at the eaves, and the hose path through the house is protected with drop cloths.",
+      "image": "blown-in-insulation-step-2",
+      "image_alt": "Sealing attic penetrations before blowing insulation"
+    },
+    {
+      "name": "Blow",
+      "text": "Loose fill goes in with the machine to the agreed R-value, with depth checks as the hose moves across the space.",
+      "image": "blown-in-insulation-step-3",
+      "image_alt": "Crew blowing loose-fill insulation into an attic"
+    },
+    {
+      "name": "Verify",
+      "text": "We walk you through the finished job, show you the depth markers, and hand over photos of the final coverage.",
+      "image": "blown-in-insulation-step-4",
+      "image_alt": "Depth markers showing insulation thickness in a finished attic"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does blown in insulation cost in San Leandro?",
+      "a": "It follows the square footage and the R-value you are aiming for. The free inspection turns those into one fixed number for your specific attic or walls, so there are no per-day surprises."
+    },
+    {
+      "q": "What R-value should I aim for?",
+      "a": "Most East Bay attics land between R-38 and R-60, and walls have their own targets. We put the exact R-value for your house in the written estimate."
+    },
+    {
+      "q": "Can you blow insulation into existing walls?",
+      "a": "Yes. We dense-pack the cavities through small holes, which is usually the only practical way to insulate the walls of an older East Bay home without opening them up."
+    },
+    {
+      "q": "Fiberglass or cellulose, which should I choose?",
+      "a": "Both work well blown-in. Cellulose packs tighter and is recycled; fiberglass holds its depth and stays dry. We quote the one that fits your attic and your goals."
+    },
+    {
+      "q": "How long does a blown-in job take?",
+      "a": "Most attics are done in one day. Wall retrofits and garages vary with the size, and the estimate states the schedule up front."
+    },
+    {
+      "q": "Do I have to remove the old insulation first?",
+      "a": "Only if it is compressed, damp or rodent-damaged. Clean, sound insulation can often be topped up, and we tell you which path your attic needs after the inspection."
+    }
+  ],
+  "related": ["attic-insulation", "cellulose-insulation", "wall-insulation"]
+}

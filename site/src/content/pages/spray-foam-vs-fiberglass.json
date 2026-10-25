@@ -1,0 +1,65 @@
+{
+  "h1": "Spray Foam vs Fiberglass: Which Suits Bay Area Homes?",
+  "description": "Spray foam seals and insulates in one pass; fiberglass gives more R-value per dollar in open attics. How the two compare for Bay Area homes.",
+  "intro": "Spray foam and fiberglass solve different problems. Foam insulates and air seals in one pass, which is what you want where air and moisture move through the structure. Fiberglass gives more R-value per dollar in open, vented attics. Most East Bay houses have room for both, in different places.",
+  "service_link": "/services/spray-foam-insulation/",
+  "author": "East Bay Insulation",
+  "date": "2026-10-20",
+  "sections": [
+    {
+      "h2": "How each material works",
+      "paragraphs": [
+        "Fiberglass traps air in millions of tiny glass fibers, slowing heat movement through a vented attic floor. Spray foam expands on application, fills gaps, and becomes an air barrier as well as insulation. That difference, insulation only versus insulation plus air sealing, is what separates the two."
+      ],
+      "bullets": [
+        "Fiberglass: slows heat transfer, needs air sealing done separately",
+        "Spray foam: insulates and air seals in one pass",
+        "Both need the right depth to hit the target R-value"
+      ]
+    },
+    {
+      "h2": "R-value per inch",
+      "paragraphs": [
+        "Closed-cell spray foam delivers roughly twice the R-value per inch of fiberglass batts, and open-cell foam sits between the two. That does not make foam the default choice: in an open attic with room for deep coverage, fiberglass reaches high total R-values for less material cost. Foam earns its higher cost per inch where space is tight or air sealing is the real problem."
+      ],
+      "bullets": [
+        "Closed-cell foam: roughly R-6 to R-7 per inch",
+        "Open-cell foam: roughly R-3.5 to R-4 per inch",
+        "Fiberglass batts and blown-in: roughly R-2.2 to R-3.5 per inch"
+      ]
+    },
+    {
+      "h2": "Moisture and the marine layer",
+      "paragraphs": [
+        "The marine layer keeps Bay Area attics and crawl spaces damp for part of the year, and moisture is the main risk in any insulation choice. Closed-cell foam resists bulk water and can act as a vapor retarder in the right assembly, which helps in crawl spaces. Wet fiberglass loses performance and holds water against the framing, so ventilation and moisture control have to be right wherever fiberglass goes."
+      ],
+      "bullets": [
+        "Closed-cell foam resists bulk water",
+        "Fiberglass needs dry, properly vented spaces",
+        "Moisture readings decide what goes where"
+      ]
+    },
+    {
+      "h2": "Sound",
+      "paragraphs": [
+        "Neither material is a soundproofing product on its own, but both change how a house sounds. Spray foam seals gaps, which cuts airborne noise paths through walls and rim joists. Loose-fill fiberglass in an attic floor absorbs some sound transfer between floors and from rain on the roof."
+      ],
+      "bullets": [
+        "Spray foam: closes gaps that carry noise",
+        "Fiberglass: absorbs sound in cavities",
+        "For real soundproofing, density and mass do more than either material"
+      ]
+    },
+    {
+      "h2": "Where each one wins in an East Bay house",
+      "paragraphs": [
+        "In a typical East Bay home, the two materials usually split the job. Fiberglass blown over a vented attic floor is the straightforward way to hit R-38 to R-60 without overspending. Spray foam is the better tool for the parts of the house where air moves: rim joists, crawl space walls, low-slope roofs and any unvented attic. The inspection finds both kinds of spots and the estimate covers them in one plan."
+      ],
+      "bullets": [
+        "Fiberglass wins in open, vented attics",
+        "Spray foam wins at rim joists, crawl space walls and unvented attics",
+        "Most houses use both, in different places"
+      ]
+    }
+  ]
+}

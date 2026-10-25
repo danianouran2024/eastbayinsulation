@@ -1,0 +1,33 @@
+{
+  "h1": "About East Bay Insulation",
+  "description": "East Bay Insulation is an insulation contractor based in San Leandro, CA, with in-house crews serving East Bay homes within about 30 miles.",
+  "intro": "East Bay Insulation is based in San Leandro and works in homes across the East Bay. We keep every job small and local on purpose: one in-house crew inspects, installs and follows up, so the people who quote your job are the people who do it.",
+  "sections": [
+    {
+      "h2": "How we work",
+      "paragraphs": [
+        "Every job starts with a free inspection. We look at what is in the attic, the crawl space and the walls, take the moisture readings that matter in this climate, and write a fixed estimate before any work starts."
+      ],
+      "bullets": [
+        "One in-house crew from inspection to follow-up",
+        "Free inspection with a written estimate",
+        "No subcontractors, no hand-offs",
+        "A follow-up visit to confirm the work held"
+      ]
+    },
+    {
+      "h2": "What we do",
+      "paragraphs": [
+        "We focus on the insulation problems East Bay homes actually have: damp crawl spaces, drafty attics, hot upstairs rooms and rodents in the insulation."
+      ],
+      "bullets": [
+        "Attic insulation, removal and replacement",
+        "Spray foam for attics, rim joists and crawl spaces",
+        "Crawl space encapsulation and vapor barriers",
+        "Blown-in and dense-pack wall insulation",
+        "Air sealing to Title 24 standards",
+        "Rodent proofing and exclusion before reinsulation"
+      ]
+    }
+  ]
+}

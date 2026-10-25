@@ -1,0 +1,107 @@
+{
+  "h1": "Garage Insulation in San Leandro, CA",
+  "description": "Garage insulation in San Leandro, CA for ceilings, walls and rooms above the garage. Keeps garage heat out of the house. Free inspection.",
+  "intro": "We insulate garage ceilings and walls so the heat that builds up in a garage stays there, and we fix the rooms above the garage that bake or freeze with the seasons. Free inspection, fixed written estimate.",
+  "hero_image": "garage-insulation-hero",
+  "hero_alt": "Insulated garage ceiling above a finished bedroom",
+  "sections": [
+    {
+      "h2": "What a garage insulation job includes",
+      "paragraphs": [
+        "A garage job covers the ceiling, the shared wall with the house, and often the exterior walls. The ceiling does the most work when there is living space above, but even a detached garage holds heat that pushes against the house."
+      ],
+      "bullets": [
+        "Garage ceiling insulated to the R-value your home needs",
+        "The wall shared with the house sealed and insulated",
+        "Exterior garage walls where they face living space",
+        "Air sealing around the door framing and penetrations"
+      ]
+    },
+    {
+      "h2": "The room above the garage",
+      "paragraphs": [
+        "A bedroom or family room above a garage sits over an unconditioned box. In summer the garage roof soaks up sun and the heat rises into the floor above; in winter the room loses heat downward into the garage.",
+        "In the East Bay, long summer afternoons bake garage roofs while the marine layer keeps mornings cool, so the temperature swings under that ceiling are wide. Insulating the garage ceiling cuts both directions at once, and it is the single biggest improvement most of those rooms ever get."
+      ]
+    },
+    {
+      "h2": "Garage materials compared",
+      "paragraphs": [
+        "Blown-in fiberglass or cellulose covers garage ceilings fast and tight around joists and wiring. Batts suit walls with open stud bays. Spray foam earns its keep at the rim and around the door framing, where air leaks are stubborn.",
+        "A radiant barrier on the roof can take some of the summer load off the ceiling, and we quote it where the sun exposure calls for it."
+      ],
+      "bullets": [
+        "Blown-in loose fill for ceilings",
+        "Batts for open wall bays",
+        "Spray foam for rim joists and leaks",
+        "Radiant barrier where the roof takes direct sun"
+      ]
+    },
+    {
+      "h2": "Where the cost comes from",
+      "paragraphs": [
+        "Ceiling square footage is the main driver, then the walls and the condition of the framing. A clean, open garage with exposed joists is a fast job; one finished with drywall takes more prep, and the estimate reflects what we measured."
+      ]
+    },
+    {
+      "h2": "The install, start to finish",
+      "paragraphs": [
+        "Most garages finish in a day or two. We move or cover stored items with your direction, protect the path into the house, and leave the garage usable the same evening.",
+        "After the install the garage needs nothing from you. The insulation is out of sight behind the ceiling and walls, and the rooms above settle into a steadier temperature within days."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We measure the ceiling and walls, check the shared wall and rim, and note how the garage is used and finished.",
+      "image": "garage-insulation-step-1",
+      "image_alt": "Inspecting garage ceiling joists before insulation"
+    },
+    {
+      "name": "Prep",
+      "text": "The bays are cleaned, air leaks at the rim and door framing are sealed, and stored items are moved or covered.",
+      "image": "garage-insulation-step-2",
+      "image_alt": "Preparing a garage ceiling for insulation"
+    },
+    {
+      "name": "Install",
+      "text": "Loose fill goes into the ceiling and batts or foam into the walls, to the R-values in your estimate.",
+      "image": "garage-insulation-step-3",
+      "image_alt": "Blowing insulation into a garage ceiling"
+    },
+    {
+      "name": "Verify",
+      "text": "We walk the finished garage with you, confirm coverage and depth, and leave it clean and usable.",
+      "image": "garage-insulation-step-4",
+      "image_alt": "Finished insulated garage ceiling"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does it cost to insulate a garage?",
+      "a": "The ceiling square footage and the number of walls drive the price. The free inspection gives you one fixed written estimate for your garage as it is."
+    },
+    {
+      "q": "Will insulating the garage fix the room above it?",
+      "a": "In most cases yes. The room above a garage is cold in winter and hot in summer because the garage below is unconditioned, and the ceiling insulation is what changes that."
+    },
+    {
+      "q": "Which insulation is best for a garage?",
+      "a": "Blown-in loose fill for the ceiling, batts for open wall bays, and spray foam at the rim and around the door. We quote the combination that fits your garage."
+    },
+    {
+      "q": "Do I need a vapor barrier in the garage?",
+      "a": "Not usually. Garages are ventilated, not sealed like a crawl space, so the vapor rules are different. We check for condensation risks in the inspection and only add a barrier where one is actually needed."
+    },
+    {
+      "q": "What about the garage door itself?",
+      "a": "The door is the last step, not the first. Ceiling and walls are where the house loses and gains heat, and we always start there."
+    },
+    {
+      "q": "How long does the job take?",
+      "a": "Most garages finish in one to two days, and you can use the garage again the same evening we finish."
+    }
+  ],
+  "related": ["wall-insulation", "radiant-barrier-insulation", "blown-in-insulation"]
+}

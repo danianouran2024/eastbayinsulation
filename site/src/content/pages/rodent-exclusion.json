@@ -1,0 +1,102 @@
+{
+  "h1": "Rodent Exclusion in San Leandro, CA",
+  "description": "Rodent exclusion in San Leandro, CA: structural sealing of every penetration, then cleanup and reinsulation. Get a free inspection and estimate.",
+  "intro": "Rodent exclusion for East Bay homes after an infestation: we structurally seal every penetration, remove the contaminated insulation, sanitize the space, and only then reinsulate. Seal first, clean, reinsulate, in that order.",
+  "hero_image": "rodent-exclusion-hero",
+  "hero_alt": "Sealed attic penetration after rodent exclusion",
+  "sections": [
+    {
+      "h2": "The full exclusion sequence",
+      "paragraphs": [
+        "Exclusion is what you need when rodents have already been inside: every penetration gets sealed, the contaminated material comes out, the space is sanitized, and only then does new insulation go in.",
+        "The order matters. Sealing first stops the source, cleaning removes what they left, and reinsulation finishes the job on a secure, sanitary attic."
+      ]
+    },
+    {
+      "h2": "Sealing every penetration, not just the obvious ones",
+      "paragraphs": [
+        "Rodents use openings most people never see: the gap behind a gutter, the chase around a vent pipe, the crack at a roof-to-wall junction. We seal all of them, not just the one they came through last time."
+      ],
+      "bullets": [
+        "Roof-to-wall junctions and eave gaps",
+        "Vent, pipe and wire chases",
+        "Garage, crawl space and foundation openings",
+        "Hardware cloth and metal flashing where rodents chew"
+      ]
+    },
+    {
+      "h2": "Cleanup and sanitizing after exclusion",
+      "paragraphs": [
+        "Rodent droppings, urine-soaked insulation and nesting material have to go. We vacuum out the contaminated insulation, remove the debris, and sanitize the deck and framing.",
+        "Contaminated waste is bagged and disposed of properly, and the cleanup is part of the same fixed estimate as the sealing."
+      ]
+    },
+    {
+      "h2": "Reinsulating after the space is secure",
+      "paragraphs": [
+        "New insulation only goes in after the sealing is done and the attic is clean and dry. Insulating first would hand the next rodent fresh bedding.",
+        "We reinsulate to the R-value your house needs, with depth markers, so the finished attic is documented and verifiable."
+      ]
+    },
+    {
+      "h2": "Verifying the exclusion holds",
+      "paragraphs": [
+        "After the work, we re-check every sealed point and walk the house for anything we missed. Photos of the sealed openings go to you with notes on the seasonal spots to watch.",
+        "If activity ever reappears, the sealed map from your job tells us exactly where to look first."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspect",
+      "text": "We map every penetration and the extent of the rodent damage, then quote the full exclusion and cleanup as one fixed estimate.",
+      "image": "rodent-exclusion-step-1",
+      "image_alt": "Mapping rodent entry points and damage"
+    },
+    {
+      "name": "Seal",
+      "text": "Every penetration is closed with flashing, hardware cloth and sealant, starting with the largest openings.",
+      "image": "rodent-exclusion-step-2",
+      "image_alt": "Sealing a penetration with hardware cloth"
+    },
+    {
+      "name": "Clean",
+      "text": "Contaminated insulation and droppings are vacuumed out, and the deck and framing are sanitized.",
+      "image": "rodent-exclusion-step-3",
+      "image_alt": "Removing contaminated insulation after exclusion"
+    },
+    {
+      "name": "Reinsulate",
+      "text": "Fresh insulation goes in to the target R-value, and we document the sealed points and the finished attic.",
+      "image": "rodent-exclusion-step-4",
+      "image_alt": "Reinsulated attic after rodent exclusion"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between rodent proofing and exclusion?",
+      "a": "Proofing seals the building so rodents never get in. Exclusion is the full job after an infestation: seal every penetration, remove contaminated material, sanitize, then reinsulate."
+    },
+    {
+      "q": "Do you remove the contaminated insulation?",
+      "a": "Yes. Rodent-soiled insulation is vacuumed out and properly disposed of as part of the exclusion job, and it is included in the fixed estimate."
+    },
+    {
+      "q": "In what order does the work happen?",
+      "a": "Seal first, then clean and sanitize, then reinsulate. That sequence is what keeps the attic rodent-free after the job."
+    },
+    {
+      "q": "Will new insulation attract rodents again?",
+      "a": "Not once the building is sealed. Rodents return through openings, and exclusion closes them. That is why sealing happens before any new material goes in."
+    },
+    {
+      "q": "How long does exclusion take?",
+      "a": "Most exclusion jobs finish in one to two days depending on the size of the attic and the extent of the damage. The estimate states the schedule."
+    },
+    {
+      "q": "Do you set traps or use bait?",
+      "a": "No. We exclude rodents by sealing the building so they cannot enter or return, then restore the attic. That approach removes the access instead of chasing individual animals."
+    }
+  ],
+  "related": ["rodent-proofing", "attic-insulation-replacement", "attic-cleaning"]
+}

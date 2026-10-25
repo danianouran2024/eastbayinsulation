@@ -1,0 +1,183 @@
+{
+  "label": "baseline",
+  "date": "2026-10-24T19:03:18.302Z",
+  "noindex": true,
+  "runs": 1,
+  "min": 99,
+  "pages": [
+    {
+      "url": "/",
+      "type": "home",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": []
+    },
+    {
+      "url": "/services/",
+      "type": "hub",
+      "runs": [
+        {
+          "performance": 99,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": []
+    },
+    {
+      "url": "/services/attic-insulation/",
+      "type": "service",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 96,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": [
+        {
+          "id": "link-name",
+          "title": "Links do not have a discernible name",
+          "category": "accessibility",
+          "score": 0,
+          "weight": 7,
+          "savingsMs": 0
+        }
+      ]
+    },
+    {
+      "url": "/areas-served/oakland-ca/",
+      "type": "area",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": []
+    },
+    {
+      "url": "/about/",
+      "type": "about",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": []
+    },
+    {
+      "url": "/contact/",
+      "type": "contact",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 96,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": [
+        {
+          "id": "link-name",
+          "title": "Links do not have a discernible name",
+          "category": "accessibility",
+          "score": 0,
+          "weight": 7,
+          "savingsMs": 0
+        }
+      ]
+    },
+    {
+      "url": "/privacy-policy/",
+      "type": "legal",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": []
+    },
+    {
+      "url": "/blog/attic-insulation-cost-east-bay/",
+      "type": "blog",
+      "runs": [
+        {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        }
+      ],
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "failing": []
+    }
+  ],
+  "failures": [
+    "/services/attic-insulation/ accessibility 96 (need 99)",
+    "/contact/ accessibility 96 (need 99)"
+  ]
+}

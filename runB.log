@@ -1,0 +1,31 @@
+11 image(s) queued | model=gpt-image-2-text-to-image | 1K | 4:3 | concurrency=6
+ERR attic-insulation-replacement-hero: fetch failed
+ERR attic-cleaning-hero: fetch failed
+ERR fiberglass-insulation-hero: fetch failed
+ok  air-sealing-hero  2514516B 1448x1086  task=c5a9289bb9747f6fadfdfbebef8a61c3
+ok  duct-replacement-hero  2871806B 1448x1086  task=2cf471efe676d43f9d87d300548bddc4
+ok  attic-insulation-removal-hero  2550030B 1448x1086  task=79afd3f4ad4771fb8f0f6e5d49ed30ff
+ok  insulation-replacement-hero  2331039B 1448x1086  task=1b96667f757561eb511f12eee3ad1d3c
+ok  rodent-proofing-hero  3472623B 1448x1086  task=0638d18fb198668924a3aa455d513c12
+ok  rodent-exclusion-hero  3231837B 1448x1086  task=4c593c95fe5da908c2ff53d64ae4dda6
+ok  vapor-barrier-installation-hero  2029629B 1448x1086  task=d0016aa5cba81a83a3e660bbb0a5d6c1
+ERR soundproofing-insulation-hero: fetch failed [cause: UND_ERR_CONNECT_TIMEOUT]
+done 7 / failed 4
+[
+  {
+    "name": "attic-insulation-replacement-hero",
+    "error": "fetch failed"
+  },
+  {
+    "name": "attic-cleaning-hero",
+    "error": "fetch failed"
+  },
+  {
+    "name": "fiberglass-insulation-hero",
+    "error": "fetch failed"
+  },
+  {
+    "name": "soundproofing-insulation-hero",
+    "error": "fetch failed [cause: UND_ERR_CONNECT_TIMEOUT]"
+  }
+]

@@ -1,0 +1,113 @@
+{
+  "h1": "Radiant Barrier Insulation in San Leandro, CA",
+  "description": "Radiant barrier insulation in San Leandro, CA: a reflective attic barrier that blocks summer heat gain so your upstairs stays cooler. Get a free inspection.",
+  "intro": "A radiant barrier under the roof deck reflects the summer sun's heat before it can soak into your attic. Paired with proper attic insulation, it keeps upstairs rooms measurably cooler in East Bay summers.",
+  "hero_image": "radiant-barrier-insulation-hero",
+  "hero_alt": "Radiant barrier foil installed under an attic roof deck",
+  "sections": [
+    {
+      "h2": "How a radiant barrier cuts attic heat",
+      "paragraphs": [
+        "The sun heats the roof deck, and that heat radiates down into the attic. A reflective barrier facing the roof sends most of that radiant heat back out instead of letting it reach the insulation and the rooms below."
+      ],
+      "bullets": [
+        "Reflects heat before it enters the attic",
+        "Works hardest on hot, sunny afternoons",
+        "Complements insulation, does not replace it"
+      ]
+    },
+    {
+      "h2": "Where the barrier goes",
+      "paragraphs": [
+        "The barrier is fastened to the underside of the roof rafters, reflective side facing the roof deck, with an air gap below so the foil can do its job. We keep the eaves and vents clear so attic airflow still works."
+      ],
+      "bullets": [
+        "Under the roof deck, facing the roof",
+        "Air gap maintained below the foil",
+        "Eaves and vents stay clear"
+      ]
+    },
+    {
+      "h2": "Radiant barrier vs more insulation",
+      "paragraphs": [
+        "A radiant barrier and insulation stop different kinds of heat: the barrier stops radiant heat from the sun, and insulation slows the heat that still conducts through. Homes with a hot upstairs usually benefit from the barrier first, then insulation to the right R-value."
+      ],
+      "bullets": [
+        "Barrier stops radiant heat from the sun",
+        "Insulation slows conducted heat",
+        "The two are planned together"
+      ]
+    },
+    {
+      "h2": "East Bay summers and the roof deck",
+      "paragraphs": [
+        "East Bay summers are dry and sunny, and a dark roof deck can run far hotter than the outside air. The attic above your bedrooms stores that heat into the evening, which is why upstairs rooms stay warm long after sunset. A barrier shortens that cycle."
+      ],
+      "bullets": [
+        "Sunny afternoons are the peak load",
+        "Cooler attic means cooler upstairs",
+        "Works with existing attic insulation"
+      ]
+    },
+    {
+      "h2": "Installation, from inspection to finish",
+      "paragraphs": [
+        "We start by reading the attic temperature and checking the roof structure and vents. Most radiant barrier jobs finish in a day, and we note the attic temperature before and after so you can see the difference in the numbers."
+      ],
+      "bullets": [
+        "Temperature readings before and after",
+        "Most roofs done in one day",
+        "Combined with attic insulation where needed"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We measure the roof deck, read the attic temperature, and check the vents and existing insulation.",
+      "image": "radiant-barrier-insulation-step-1",
+      "image_alt": "Measuring a roof deck for a radiant barrier"
+    },
+    {
+      "name": "Prep",
+      "text": "The attic is cleared around the work path and the rafters are checked for a clean fastening surface.",
+      "image": "radiant-barrier-insulation-step-2",
+      "image_alt": "Prepping rafters for barrier installation"
+    },
+    {
+      "name": "Install",
+      "text": "The foil goes up across the roof deck, reflective side toward the roof, with the air gap kept even.",
+      "image": "radiant-barrier-insulation-step-3",
+      "image_alt": "Installing radiant barrier foil under a roof deck"
+    },
+    {
+      "name": "Verify",
+      "text": "We check coverage, confirm vents are clear, and record the attic temperature for the before-and-after.",
+      "image": "radiant-barrier-insulation-step-4",
+      "image_alt": "Checking finished radiant barrier coverage"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a radiant barrier really cool the house?",
+      "a": "It cools the attic, which is what makes upstairs rooms cooler. The barrier reflects the sun's heat before it reaches the insulation, so the attic does not turn into an oven in the afternoon."
+    },
+    {
+      "q": "Do I still need attic insulation with a radiant barrier?",
+      "a": "Yes. The barrier handles radiant heat from the sun, and the insulation handles the heat that still conducts through the roof. The two work together."
+    },
+    {
+      "q": "Where is a radiant barrier installed?",
+      "a": "Under the roof deck, fastened to the rafters with the reflective side facing the roof. An air gap below the foil is part of making it work."
+    },
+    {
+      "q": "Does it matter which way the foil faces?",
+      "a": "Yes. The reflective side faces the roof deck so heat bounces back toward the roof. We check the orientation on every install."
+    },
+    {
+      "q": "Can a radiant barrier be added to an existing attic?",
+      "a": "In most attics, yes. The rafters are exposed and the barrier goes up in a day, often alongside a check of the existing insulation and vents."
+    }
+  ],
+  "related": ["attic-insulation", "blown-in-insulation", "attic-insulation-replacement"]
+}

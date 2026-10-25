@@ -1,0 +1,9 @@
+1 image(s) queued | model=gpt-image-2-text-to-image | 1K | 4:3 | concurrency=4
+ERR attic-cleaning-step-1: createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue.
+done 0 / failed 1
+[
+  {
+    "name": "attic-cleaning-step-1",
+    "error": "createTask failed code=402 msg=Credits insufficient : Your current balance isn’t enough to run this request. Please top up to continue."
+  }
+]

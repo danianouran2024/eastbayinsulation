@@ -1,0 +1,112 @@
+{
+  "h1": "Closed Cell Spray Foam Insulation in San Leandro, CA",
+  "description": "Closed cell spray foam insulation for rim joists, roofs and air sealing in San Leandro, CA. High R-value per inch. Free inspection.",
+  "intro": "High-R closed-cell foam for rim joists, roof decks and anywhere air and moisture move together. It seals, insulates and stiffens the structure in one pass. Free inspection, fixed written estimate.",
+  "hero_image": "closed-cell-spray-foam-hero",
+  "hero_alt": "Closed-cell spray foam applied across a rim joist band",
+  "sections": [
+    {
+      "h2": "What closed-cell foam delivers",
+      "paragraphs": [
+        "Closed-cell foam is the densest insulation we install. Its cells are sealed shut, so it stops air, water vapor and heat at the same time, and it adds stiffness to whatever it is sprayed against."
+      ],
+      "bullets": [
+        "The highest R-value per inch of any common insulation",
+        "Stops air and moisture in one pass",
+        "Adds structural strength to roofs and rim joists",
+        "Fully adheres, so no gaps at edges or framing"
+      ]
+    },
+    {
+      "h2": "The right jobs for closed-cell",
+      "paragraphs": [
+        "Closed-cell earns its cost in specific places: the rim joist band, where cold air pours in around the foundation; roof decks and bonus rooms, where space is too tight for thick batts; and anywhere a leak has defied caulk and fiberglass.",
+        "In a wide-open attic, blown-in insulation usually delivers more R-value for the dollar, and we will say so plainly. Foam goes where foam is the answer."
+      ],
+      "bullets": [
+        "Rim joists and foundation edges",
+        "Roof decks, attics and knee walls",
+        "Air leaks that keep coming back"
+      ]
+    },
+    {
+      "h2": "Closed-cell vs open-cell vs batts",
+      "paragraphs": [
+        "Open-cell foam is lighter and less costly per inch, with better sound control, but it does not stop water vapor. Closed-cell does, at roughly double the R-value per inch. Batts cost less again but leave seams and cannot air seal.",
+        "Many East Bay homes use a mix: closed-cell on the rim joist and open-cell or batts elsewhere. We quote each zone with its R-value so you can compare like with like."
+      ],
+      "bullets": [
+        "Closed-cell: R-value, moisture and strength in one",
+        "Open-cell: sound control, lower cost per inch",
+        "Batts: lower cost where air sealing is not critical"
+      ]
+    },
+    {
+      "h2": "Marine air and roof decks",
+      "paragraphs": [
+        "The marine layer pushes cool, damp air against East Bay homes most of the year, and unvented roofs and rim joists are where it bites hardest. Closed-cell is one of the few materials that insulates while blocking that moisture outright.",
+        "On a roof deck, closed-cell keeps condensation from forming inside the structure, which is why it is the standard pick for unvented attic and bonus room projects here."
+      ]
+    },
+    {
+      "h2": "From prep to cure",
+      "paragraphs": [
+        "Crews mask and tent the work area, ventilate it, and keep the house empty while the foam is sprayed. The foam rises and hardens within minutes, then cures, typically within 24 hours.",
+        "We state the re-entry time in the estimate, inspect the cured foam at every joint, and leave the product data sheets with you for your records."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inspection",
+      "text": "We locate the air and moisture leaks and measure each zone you want foamed, then quote the thickness and coverage per zone.",
+      "image": "closed-cell-spray-foam-step-1",
+      "image_alt": "Measuring a roof deck before spraying closed-cell foam"
+    },
+    {
+      "name": "Prep",
+      "text": "The work area is masked and tented, surfaces are cleared and dried, and the house is vacated during the spray.",
+      "image": "closed-cell-spray-foam-step-2",
+      "image_alt": "Tenting and masking a rim joist area before foam"
+    },
+    {
+      "name": "Spray",
+      "text": "Closed-cell foam goes on in passes to the agreed thickness, with checks between passes as it rises.",
+      "image": "closed-cell-spray-foam-step-3",
+      "image_alt": "Spraying closed-cell foam across rim joists"
+    },
+    {
+      "name": "Cure and check",
+      "text": "After the cure window we inspect every joint, confirm the seal, and tell you when the space is safe to re-enter.",
+      "image": "closed-cell-spray-foam-step-4",
+      "image_alt": "Checking cured closed-cell foam for full coverage"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does closed-cell spray foam cost?",
+      "a": "Closed-cell is priced by the board foot, and the total follows area and thickness. Rim joists are a smaller job; a full roof deck is a larger one. The inspection turns the ranges into one fixed written number."
+    },
+    {
+      "q": "Is closed-cell worth it over open-cell?",
+      "a": "Where moisture is involved, yes: closed-cell is the one that stops water vapor, and it carries roughly double the R-value per inch. Where sound control matters more, open-cell is often the better fit."
+    },
+    {
+      "q": "Can you spray closed-cell on my roof deck?",
+      "a": "Yes, and it is a common choice for unvented roofs and bonus rooms in the East Bay, where it stops condensation from forming inside the structure."
+    },
+    {
+      "q": "How long do we stay out of the house?",
+      "a": "Typically 24 hours for the foam to cure and finish off-gassing. The exact re-entry time is written into your estimate."
+    },
+    {
+      "q": "Does closed-cell foam act as a vapor barrier?",
+      "a": "At typical installed thicknesses, yes. Its closed structure blocks water vapor, which is why it works on rim joists and roof decks where other materials fail."
+    },
+    {
+      "q": "How long does closed-cell foam last?",
+      "a": "Closed-cell foam holds its R-value for the life of the building when installed at the right thickness and kept out of direct sun, which is how we install it."
+    }
+  ],
+  "related": ["spray-foam-insulation", "crawl-space-insulation", "wall-insulation"]
+}
